@@ -1,0 +1,1850 @@
+id,innings,innings_team,over,delivery,batter,bowler,non_striker,batter_runs,extra_runs,total_runs
+64083
+,0,Pakistan,0,0,Imran Farhat,IK Pathan,Taufeeq Umar,0,0,0
+,0,Pakistan,0,1,Imran Farhat,IK Pathan,Taufeeq Umar,0,0,0
+,0,Pakistan,0,2,Imran Farhat,IK Pathan,Taufeeq Umar,0,0,0
+,0,Pakistan,0,3,Imran Farhat,IK Pathan,Taufeeq Umar,0,0,0
+,0,Pakistan,0,4,Imran Farhat,IK Pathan,Taufeeq Umar,0,4,4
+,0,Pakistan,0,5,Imran Farhat,IK Pathan,Taufeeq Umar,0,0,0
+,0,Pakistan,1,0,Taufeeq Umar,L Balaji,Imran Farhat,0,0,0
+,0,Pakistan,1,1,Taufeeq Umar,L Balaji,Imran Farhat,4,0,4
+,0,Pakistan,1,2,Taufeeq Umar,L Balaji,Imran Farhat,0,0,0
+,0,Pakistan,1,3,Taufeeq Umar,L Balaji,Imran Farhat,0,1,1
+,0,Pakistan,1,4,Taufeeq Umar,L Balaji,Imran Farhat,0,0,0
+,0,Pakistan,1,5,Taufeeq Umar,L Balaji,Imran Farhat,0,0,0
+,0,Pakistan,1,6,Taufeeq Umar,L Balaji,Imran Farhat,0,0,0
+,0,Pakistan,2,0,Imran Farhat,IK Pathan,Taufeeq Umar,0,0,0
+,0,Pakistan,2,1,Imran Farhat,IK Pathan,Taufeeq Umar,0,0,0
+,0,Pakistan,2,2,Imran Farhat,IK Pathan,Taufeeq Umar,0,0,0
+,0,Pakistan,2,3,Imran Farhat,IK Pathan,Taufeeq Umar,0,0,0
+,0,Pakistan,2,4,Imran Farhat,IK Pathan,Taufeeq Umar,0,0,0
+,0,Pakistan,2,5,Imran Farhat,IK Pathan,Taufeeq Umar,0,0,0
+,0,Pakistan,3,0,Taufeeq Umar,L Balaji,Imran Farhat,0,0,0
+,0,Pakistan,3,1,Taufeeq Umar,L Balaji,Imran Farhat,0,1,1
+,0,Pakistan,3,2,Imran Farhat,L Balaji,Taufeeq Umar,0,0,0
+,0,Pakistan,3,3,Imran Farhat,L Balaji,Taufeeq Umar,1,0,1
+,0,Pakistan,3,4,Taufeeq Umar,L Balaji,Imran Farhat,0,0,0
+,0,Pakistan,3,5,Taufeeq Umar,L Balaji,Imran Farhat,0,0,0
+,0,Pakistan,4,0,Imran Farhat,IK Pathan,Taufeeq Umar,1,0,1
+,0,Pakistan,4,1,Taufeeq Umar,IK Pathan,Imran Farhat,0,0,0
+,0,Pakistan,4,2,Taufeeq Umar,IK Pathan,Imran Farhat,0,0,0
+,0,Pakistan,4,3,Taufeeq Umar,IK Pathan,Imran Farhat,0,0,0
+,0,Pakistan,4,4,Taufeeq Umar,IK Pathan,Imran Farhat,0,0,0
+,0,Pakistan,4,5,Taufeeq Umar,IK Pathan,Imran Farhat,0,0,0
+,0,Pakistan,5,0,Imran Farhat,L Balaji,Taufeeq Umar,0,0,0
+,0,Pakistan,5,1,Imran Farhat,L Balaji,Taufeeq Umar,0,0,0
+,0,Pakistan,5,2,Imran Farhat,L Balaji,Taufeeq Umar,0,0,0
+,0,Pakistan,5,3,Imran Farhat,L Balaji,Taufeeq Umar,0,0,0
+,0,Pakistan,5,4,Imran Farhat,L Balaji,Taufeeq Umar,0,0,0
+,0,Pakistan,5,5,Imran Farhat,L Balaji,Taufeeq Umar,0,0,0
+,0,Pakistan,6,0,Taufeeq Umar,IK Pathan,Imran Farhat,0,0,0
+,0,Pakistan,6,1,Taufeeq Umar,IK Pathan,Imran Farhat,0,0,0
+,0,Pakistan,6,2,Taufeeq Umar,IK Pathan,Imran Farhat,0,0,0
+,0,Pakistan,6,3,Taufeeq Umar,IK Pathan,Imran Farhat,4,0,4
+,0,Pakistan,6,4,Taufeeq Umar,IK Pathan,Imran Farhat,0,0,0
+,0,Pakistan,6,5,Taufeeq Umar,IK Pathan,Imran Farhat,0,0,0
+,0,Pakistan,7,0,Imran Farhat,A Nehra,Taufeeq Umar,0,1,1
+,0,Pakistan,7,1,Imran Farhat,A Nehra,Taufeeq Umar,0,0,0
+,0,Pakistan,7,2,Imran Farhat,A Nehra,Taufeeq Umar,4,0,4
+,0,Pakistan,7,3,Imran Farhat,A Nehra,Taufeeq Umar,0,0,0
+,0,Pakistan,7,4,Imran Farhat,A Nehra,Taufeeq Umar,0,0,0
+,0,Pakistan,7,5,Imran Farhat,A Nehra,Taufeeq Umar,0,0,0
+,0,Pakistan,7,6,Imran Farhat,A Nehra,Taufeeq Umar,2,0,2
+,0,Pakistan,8,0,Taufeeq Umar,IK Pathan,Imran Farhat,0,0,0
+,0,Pakistan,8,1,Taufeeq Umar,IK Pathan,Imran Farhat,0,0,0
+,0,Pakistan,8,2,Taufeeq Umar,IK Pathan,Imran Farhat,0,0,0
+,0,Pakistan,8,3,Taufeeq Umar,IK Pathan,Imran Farhat,1,0,1
+,0,Pakistan,8,4,Imran Farhat,IK Pathan,Taufeeq Umar,0,0,0
+,0,Pakistan,8,5,Imran Farhat,IK Pathan,Taufeeq Umar,4,0,4
+,0,Pakistan,9,0,Taufeeq Umar,A Nehra,Imran Farhat,0,0,0
+,0,Pakistan,9,1,Taufeeq Umar,A Nehra,Imran Farhat,0,1,1
+,0,Pakistan,9,2,Imran Farhat,A Nehra,Taufeeq Umar,0,0,0
+,0,Pakistan,9,3,Imran Farhat,A Nehra,Taufeeq Umar,4,0,4
+,0,Pakistan,9,4,Imran Farhat,A Nehra,Taufeeq Umar,0,0,0
+,0,Pakistan,9,5,Imran Farhat,A Nehra,Taufeeq Umar,0,0,0
+,0,Pakistan,10,0,Taufeeq Umar,L Balaji,Imran Farhat,0,0,0
+,0,Pakistan,10,1,Taufeeq Umar,L Balaji,Imran Farhat,0,0,0
+,0,Pakistan,10,2,Taufeeq Umar,L Balaji,Imran Farhat,0,0,0
+,0,Pakistan,10,3,Taufeeq Umar,L Balaji,Imran Farhat,0,1,1
+,0,Pakistan,10,4,Taufeeq Umar,L Balaji,Imran Farhat,0,0,0
+,0,Pakistan,10,5,Taufeeq Umar,L Balaji,Imran Farhat,0,0,0
+,0,Pakistan,10,6,Yasir Hameed,L Balaji,Imran Farhat,0,0,0
+,0,Pakistan,11,0,Imran Farhat,A Nehra,Yasir Hameed,0,0,0
+,0,Pakistan,11,1,Imran Farhat,A Nehra,Yasir Hameed,0,0,0
+,0,Pakistan,11,2,Imran Farhat,A Nehra,Yasir Hameed,0,0,0
+,0,Pakistan,11,3,Imran Farhat,A Nehra,Yasir Hameed,0,0,0
+,0,Pakistan,11,4,Imran Farhat,A Nehra,Yasir Hameed,0,0,0
+,0,Pakistan,11,5,Imran Farhat,A Nehra,Yasir Hameed,0,0,0
+,0,Pakistan,12,0,Yasir Hameed,L Balaji,Inzamam-ul-Haq,0,0,0
+,0,Pakistan,12,1,Yasir Hameed,L Balaji,Inzamam-ul-Haq,0,0,0
+,0,Pakistan,12,2,Yasir Hameed,L Balaji,Inzamam-ul-Haq,0,0,0
+,0,Pakistan,12,3,Yasir Hameed,L Balaji,Inzamam-ul-Haq,0,0,0
+,0,Pakistan,12,4,Yasir Hameed,L Balaji,Inzamam-ul-Haq,0,0,0
+,0,Pakistan,12,5,Yasir Hameed,L Balaji,Inzamam-ul-Haq,1,0,1
+,0,Pakistan,13,0,Yasir Hameed,A Nehra,Inzamam-ul-Haq,0,0,0
+,0,Pakistan,13,1,Yasir Hameed,A Nehra,Inzamam-ul-Haq,0,0,0
+,0,Pakistan,13,2,Yasir Hameed,A Nehra,Inzamam-ul-Haq,0,0,0
+,0,Pakistan,13,3,Yasir Hameed,A Nehra,Inzamam-ul-Haq,2,0,2
+,0,Pakistan,13,4,Yasir Hameed,A Nehra,Inzamam-ul-Haq,0,0,0
+,0,Pakistan,13,5,Yasir Hameed,A Nehra,Inzamam-ul-Haq,0,0,0
+,0,Pakistan,14,0,Inzamam-ul-Haq,L Balaji,Yasir Hameed,4,0,4
+,0,Pakistan,14,1,Inzamam-ul-Haq,L Balaji,Yasir Hameed,0,0,0
+,0,Pakistan,14,2,Inzamam-ul-Haq,L Balaji,Yasir Hameed,0,0,0
+,0,Pakistan,14,3,Inzamam-ul-Haq,L Balaji,Yasir Hameed,0,0,0
+,0,Pakistan,14,4,Inzamam-ul-Haq,L Balaji,Yasir Hameed,2,0,2
+,0,Pakistan,14,5,Inzamam-ul-Haq,L Balaji,Yasir Hameed,0,0,0
+,0,Pakistan,15,0,Yasir Hameed,A Nehra,Inzamam-ul-Haq,2,0,2
+,0,Pakistan,15,1,Yasir Hameed,A Nehra,Inzamam-ul-Haq,0,0,0
+,0,Pakistan,15,2,Yasir Hameed,A Nehra,Inzamam-ul-Haq,1,0,1
+,0,Pakistan,15,3,Inzamam-ul-Haq,A Nehra,Yasir Hameed,2,0,2
+,0,Pakistan,15,4,Inzamam-ul-Haq,A Nehra,Yasir Hameed,0,0,0
+,0,Pakistan,15,5,Inzamam-ul-Haq,A Nehra,Yasir Hameed,0,0,0
+,0,Pakistan,16,0,Yasir Hameed,L Balaji,Inzamam-ul-Haq,4,0,4
+,0,Pakistan,16,1,Yasir Hameed,L Balaji,Inzamam-ul-Haq,0,0,0
+,0,Pakistan,16,2,Yasir Hameed,L Balaji,Inzamam-ul-Haq,4,0,4
+,0,Pakistan,16,3,Yasir Hameed,L Balaji,Inzamam-ul-Haq,0,0,0
+,0,Pakistan,16,4,Yasir Hameed,L Balaji,Inzamam-ul-Haq,2,0,2
+,0,Pakistan,16,5,Yasir Hameed,L Balaji,Inzamam-ul-Haq,0,0,0
+,0,Pakistan,17,0,Inzamam-ul-Haq,A Nehra,Yasir Hameed,0,0,0
+,0,Pakistan,17,1,Inzamam-ul-Haq,A Nehra,Yasir Hameed,1,0,1
+,0,Pakistan,17,2,Yasir Hameed,A Nehra,Inzamam-ul-Haq,0,0,0
+,0,Pakistan,17,3,Yasir Hameed,A Nehra,Inzamam-ul-Haq,0,0,0
+,0,Pakistan,17,4,Yasir Hameed,A Nehra,Inzamam-ul-Haq,0,0,0
+,0,Pakistan,17,5,Yasir Hameed,A Nehra,Inzamam-ul-Haq,4,0,4
+,0,Pakistan,18,0,Inzamam-ul-Haq,IK Pathan,Yasir Hameed,0,0,0
+,0,Pakistan,18,1,Inzamam-ul-Haq,IK Pathan,Yasir Hameed,1,0,1
+,0,Pakistan,18,2,Yasir Hameed,IK Pathan,Inzamam-ul-Haq,0,0,0
+,0,Pakistan,18,3,Yasir Hameed,IK Pathan,Inzamam-ul-Haq,0,0,0
+,0,Pakistan,18,4,Yasir Hameed,IK Pathan,Inzamam-ul-Haq,0,0,0
+,0,Pakistan,18,5,Yasir Hameed,IK Pathan,Inzamam-ul-Haq,0,0,0
+,0,Pakistan,19,0,Inzamam-ul-Haq,A Nehra,Yasir Hameed,0,0,0
+,0,Pakistan,19,1,Inzamam-ul-Haq,A Nehra,Yasir Hameed,0,0,0
+,0,Pakistan,19,2,Inzamam-ul-Haq,A Nehra,Yasir Hameed,0,0,0
+,0,Pakistan,19,3,Inzamam-ul-Haq,A Nehra,Yasir Hameed,0,0,0
+,0,Pakistan,19,4,Inzamam-ul-Haq,A Nehra,Yasir Hameed,1,0,1
+,0,Pakistan,19,5,Yasir Hameed,A Nehra,Inzamam-ul-Haq,4,0,4
+,0,Pakistan,20,0,Inzamam-ul-Haq,IK Pathan,Yasir Hameed,0,1,1
+,0,Pakistan,20,1,Yasir Hameed,IK Pathan,Inzamam-ul-Haq,0,0,0
+,0,Pakistan,20,2,Yasir Hameed,IK Pathan,Inzamam-ul-Haq,0,0,0
+,0,Pakistan,20,3,Yasir Hameed,IK Pathan,Inzamam-ul-Haq,0,0,0
+,0,Pakistan,20,4,Yasir Hameed,IK Pathan,Inzamam-ul-Haq,0,0,0
+,0,Pakistan,20,5,Yasir Hameed,IK Pathan,Inzamam-ul-Haq,0,0,0
+,0,Pakistan,21,0,Inzamam-ul-Haq,A Nehra,Yasir Hameed,0,0,0
+,0,Pakistan,21,1,Inzamam-ul-Haq,A Nehra,Yasir Hameed,0,0,0
+,0,Pakistan,21,2,Inzamam-ul-Haq,A Nehra,Yasir Hameed,4,0,4
+,0,Pakistan,21,3,Inzamam-ul-Haq,A Nehra,Yasir Hameed,0,0,0
+,0,Pakistan,21,4,Inzamam-ul-Haq,A Nehra,Yasir Hameed,0,0,0
+,0,Pakistan,21,5,Inzamam-ul-Haq,A Nehra,Yasir Hameed,0,0,0
+,0,Pakistan,22,0,Yasir Hameed,IK Pathan,Inzamam-ul-Haq,2,0,2
+,0,Pakistan,22,1,Yasir Hameed,IK Pathan,Inzamam-ul-Haq,0,1,1
+,0,Pakistan,22,2,Yasir Hameed,IK Pathan,Inzamam-ul-Haq,0,0,0
+,0,Pakistan,22,3,Mohammad Yousuf,IK Pathan,Inzamam-ul-Haq,0,0,0
+,0,Pakistan,22,4,Mohammad Yousuf,IK Pathan,Inzamam-ul-Haq,0,0,0
+,0,Pakistan,22,5,Mohammad Yousuf,IK Pathan,Inzamam-ul-Haq,0,0,0
+,0,Pakistan,22,6,Mohammad Yousuf,IK Pathan,Inzamam-ul-Haq,0,0,0
+,0,Pakistan,23,0,Inzamam-ul-Haq,A Nehra,Mohammad Yousuf,0,0,0
+,0,Pakistan,23,1,Inzamam-ul-Haq,A Nehra,Mohammad Yousuf,0,0,0
+,0,Pakistan,23,2,Inzamam-ul-Haq,A Nehra,Mohammad Yousuf,0,0,0
+,0,Pakistan,23,3,Asim Kamal,A Nehra,Mohammad Yousuf,4,0,4
+,0,Pakistan,23,4,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,0,Pakistan,23,5,Asim Kamal,A Nehra,Mohammad Yousuf,0,1,1
+,0,Pakistan,24,0,Asim Kamal,IK Pathan,Mohammad Yousuf,0,0,0
+,0,Pakistan,24,1,Asim Kamal,IK Pathan,Mohammad Yousuf,0,0,0
+,0,Pakistan,24,2,Asim Kamal,IK Pathan,Mohammad Yousuf,0,0,0
+,0,Pakistan,24,3,Asim Kamal,IK Pathan,Mohammad Yousuf,0,0,0
+,0,Pakistan,24,4,Asim Kamal,IK Pathan,Mohammad Yousuf,2,0,2
+,0,Pakistan,24,5,Asim Kamal,IK Pathan,Mohammad Yousuf,4,0,4
+,0,Pakistan,25,0,Mohammad Yousuf,A Nehra,Asim Kamal,0,0,0
+,0,Pakistan,25,1,Mohammad Yousuf,A Nehra,Asim Kamal,0,0,0
+,0,Pakistan,25,2,Mohammad Yousuf,A Nehra,Asim Kamal,0,0,0
+,0,Pakistan,25,3,Mohammad Yousuf,A Nehra,Asim Kamal,1,0,1
+,0,Pakistan,25,4,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,0,Pakistan,25,5,Asim Kamal,A Nehra,Mohammad Yousuf,1,0,1
+,0,Pakistan,26,0,Asim Kamal,IK Pathan,Mohammad Yousuf,4,0,4
+,0,Pakistan,26,1,Asim Kamal,IK Pathan,Mohammad Yousuf,0,0,0
+,0,Pakistan,26,2,Asim Kamal,IK Pathan,Mohammad Yousuf,1,0,1
+,0,Pakistan,26,3,Mohammad Yousuf,IK Pathan,Asim Kamal,0,0,0
+,0,Pakistan,26,4,Mohammad Yousuf,IK Pathan,Asim Kamal,0,1,1
+,0,Pakistan,26,5,Asim Kamal,IK Pathan,Mohammad Yousuf,0,0,0
+,0,Pakistan,27,0,Mohammad Yousuf,A Nehra,Asim Kamal,0,0,0
+,0,Pakistan,27,1,Mohammad Yousuf,A Nehra,Asim Kamal,1,0,1
+,0,Pakistan,27,2,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,0,Pakistan,27,3,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,0,Pakistan,27,4,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,0,Pakistan,27,5,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,0,Pakistan,28,0,Mohammad Yousuf,IK Pathan,Asim Kamal,0,0,0
+,0,Pakistan,28,1,Mohammad Yousuf,IK Pathan,Asim Kamal,0,0,0
+,0,Pakistan,28,2,Mohammad Yousuf,IK Pathan,Asim Kamal,0,0,0
+,0,Pakistan,28,3,Mohammad Yousuf,IK Pathan,Asim Kamal,0,0,0
+,0,Pakistan,28,4,Mohammad Yousuf,IK Pathan,Asim Kamal,0,0,0
+,0,Pakistan,28,5,Mohammad Yousuf,IK Pathan,Asim Kamal,3,0,3
+,0,Pakistan,29,0,Mohammad Yousuf,A Nehra,Asim Kamal,0,0,0
+,0,Pakistan,29,1,Mohammad Yousuf,A Nehra,Asim Kamal,0,0,0
+,0,Pakistan,29,2,Mohammad Yousuf,A Nehra,Asim Kamal,4,0,4
+,0,Pakistan,29,3,Mohammad Yousuf,A Nehra,Asim Kamal,0,0,0
+,0,Pakistan,29,4,Mohammad Yousuf,A Nehra,Asim Kamal,0,0,0
+,0,Pakistan,29,5,Mohammad Yousuf,A Nehra,Asim Kamal,0,0,0
+,0,Pakistan,30,0,Asim Kamal,IK Pathan,Mohammad Yousuf,0,0,0
+,0,Pakistan,30,1,Asim Kamal,IK Pathan,Mohammad Yousuf,0,0,0
+,0,Pakistan,30,2,Asim Kamal,IK Pathan,Mohammad Yousuf,0,0,0
+,0,Pakistan,30,3,Asim Kamal,IK Pathan,Mohammad Yousuf,1,0,1
+,0,Pakistan,30,4,Mohammad Yousuf,IK Pathan,Asim Kamal,0,0,0
+,0,Pakistan,30,5,Mohammad Yousuf,IK Pathan,Asim Kamal,0,0,0
+,0,Pakistan,31,0,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,0,Pakistan,31,1,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,0,Pakistan,31,2,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,0,Pakistan,31,3,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,0,Pakistan,31,4,Asim Kamal,A Nehra,Mohammad Yousuf,0,1,1
+,0,Pakistan,31,5,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,0,Pakistan,31,6,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,0,Pakistan,32,0,Mohammad Yousuf,IK Pathan,Asim Kamal,0,0,0
+,0,Pakistan,32,1,Mohammad Yousuf,IK Pathan,Asim Kamal,0,0,0
+,0,Pakistan,32,2,Mohammad Yousuf,IK Pathan,Asim Kamal,0,0,0
+,0,Pakistan,32,3,Mohammad Yousuf,IK Pathan,Asim Kamal,0,0,0
+,0,Pakistan,32,4,Mohammad Yousuf,IK Pathan,Asim Kamal,0,0,0
+,0,Pakistan,32,5,Mohammad Yousuf,IK Pathan,Asim Kamal,0,0,0
+,0,Pakistan,33,0,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,0,Pakistan,33,1,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,0,Pakistan,33,2,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,0,Pakistan,33,3,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,0,Pakistan,33,4,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,0,Pakistan,33,5,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,0,Pakistan,34,0,Mohammad Yousuf,IK Pathan,Asim Kamal,0,0,0
+,0,Pakistan,34,1,Mohammad Yousuf,IK Pathan,Asim Kamal,0,0,0
+,0,Pakistan,34,2,Mohammad Yousuf,IK Pathan,Asim Kamal,0,0,0
+,0,Pakistan,34,3,Mohammad Yousuf,IK Pathan,Asim Kamal,4,0,4
+,0,Pakistan,34,4,Mohammad Yousuf,IK Pathan,Asim Kamal,0,0,0
+,0,Pakistan,34,5,Kamran Akmal,IK Pathan,Asim Kamal,0,0,0
+,0,Pakistan,35,0,Asim Kamal,L Balaji,Kamran Akmal,0,0,0
+,0,Pakistan,35,1,Asim Kamal,L Balaji,Kamran Akmal,0,0,0
+,0,Pakistan,35,2,Asim Kamal,L Balaji,Kamran Akmal,0,0,0
+,0,Pakistan,35,3,Asim Kamal,L Balaji,Kamran Akmal,4,0,4
+,0,Pakistan,35,4,Asim Kamal,L Balaji,Kamran Akmal,0,0,0
+,0,Pakistan,35,5,Asim Kamal,L Balaji,Kamran Akmal,0,0,0
+,0,Pakistan,36,0,Kamran Akmal,IK Pathan,Asim Kamal,0,0,0
+,0,Pakistan,36,1,Kamran Akmal,IK Pathan,Asim Kamal,0,0,0
+,0,Pakistan,36,2,Kamran Akmal,IK Pathan,Asim Kamal,0,4,4
+,0,Pakistan,36,3,Kamran Akmal,IK Pathan,Asim Kamal,0,0,0
+,0,Pakistan,36,4,Kamran Akmal,IK Pathan,Asim Kamal,0,0,0
+,0,Pakistan,36,5,Kamran Akmal,IK Pathan,Asim Kamal,0,0,0
+,0,Pakistan,37,0,Asim Kamal,L Balaji,Kamran Akmal,0,0,0
+,0,Pakistan,37,1,Asim Kamal,L Balaji,Kamran Akmal,0,1,1
+,0,Pakistan,37,2,Asim Kamal,L Balaji,Kamran Akmal,0,0,0
+,0,Pakistan,37,3,Asim Kamal,L Balaji,Kamran Akmal,0,1,1
+,0,Pakistan,37,4,Asim Kamal,L Balaji,Kamran Akmal,0,0,0
+,0,Pakistan,37,5,Asim Kamal,L Balaji,Kamran Akmal,0,0,0
+,0,Pakistan,37,6,Mohammad Sami,L Balaji,Kamran Akmal,0,0,0
+,0,Pakistan,37,7,Mohammad Sami,L Balaji,Kamran Akmal,0,0,0
+,0,Pakistan,38,0,Kamran Akmal,IK Pathan,Mohammad Sami,0,0,0
+,0,Pakistan,38,1,Kamran Akmal,IK Pathan,Mohammad Sami,0,0,0
+,0,Pakistan,38,2,Kamran Akmal,IK Pathan,Mohammad Sami,0,0,0
+,0,Pakistan,38,3,Kamran Akmal,IK Pathan,Mohammad Sami,0,0,0
+,0,Pakistan,38,4,Kamran Akmal,IK Pathan,Mohammad Sami,0,0,0
+,0,Pakistan,38,5,Kamran Akmal,IK Pathan,Mohammad Sami,0,0,0
+,0,Pakistan,39,0,Mohammad Sami,L Balaji,Kamran Akmal,0,0,0
+,0,Pakistan,39,1,Mohammad Sami,L Balaji,Kamran Akmal,0,0,0
+,0,Pakistan,39,2,Mohammad Sami,L Balaji,Kamran Akmal,0,0,0
+,0,Pakistan,39,3,Mohammad Sami,L Balaji,Kamran Akmal,0,0,0
+,0,Pakistan,39,4,Mohammad Sami,L Balaji,Kamran Akmal,0,0,0
+,0,Pakistan,39,5,Mohammad Sami,L Balaji,Kamran Akmal,0,0,0
+,0,Pakistan,40,0,Kamran Akmal,SC Ganguly,Mohammad Sami,0,0,0
+,0,Pakistan,40,1,Kamran Akmal,SC Ganguly,Mohammad Sami,0,0,0
+,0,Pakistan,40,2,Kamran Akmal,SC Ganguly,Mohammad Sami,0,0,0
+,0,Pakistan,40,3,Kamran Akmal,SC Ganguly,Mohammad Sami,0,0,0
+,0,Pakistan,40,4,Kamran Akmal,SC Ganguly,Mohammad Sami,4,0,4
+,0,Pakistan,40,5,Kamran Akmal,SC Ganguly,Mohammad Sami,0,0,0
+,0,Pakistan,41,0,Mohammad Sami,L Balaji,Kamran Akmal,0,0,0
+,0,Pakistan,41,1,Mohammad Sami,L Balaji,Kamran Akmal,0,0,0
+,0,Pakistan,41,2,Mohammad Sami,L Balaji,Kamran Akmal,0,0,0
+,0,Pakistan,41,3,Mohammad Sami,L Balaji,Kamran Akmal,0,0,0
+,0,Pakistan,41,4,Mohammad Sami,L Balaji,Kamran Akmal,0,0,0
+,0,Pakistan,41,5,Mohammad Sami,L Balaji,Kamran Akmal,0,0,0
+,0,Pakistan,42,0,Kamran Akmal,SC Ganguly,Mohammad Sami,0,0,0
+,0,Pakistan,42,1,Kamran Akmal,SC Ganguly,Mohammad Sami,0,0,0
+,0,Pakistan,42,2,Kamran Akmal,SC Ganguly,Mohammad Sami,4,0,4
+,0,Pakistan,42,3,Kamran Akmal,SC Ganguly,Mohammad Sami,0,0,0
+,0,Pakistan,42,4,Kamran Akmal,SC Ganguly,Mohammad Sami,1,0,1
+,0,Pakistan,42,5,Mohammad Sami,SC Ganguly,Kamran Akmal,0,0,0
+,0,Pakistan,43,0,Kamran Akmal,L Balaji,Mohammad Sami,4,0,4
+,0,Pakistan,43,1,Kamran Akmal,L Balaji,Mohammad Sami,4,0,4
+,0,Pakistan,43,2,Kamran Akmal,L Balaji,Mohammad Sami,0,0,0
+,0,Pakistan,43,3,Kamran Akmal,L Balaji,Mohammad Sami,0,0,0
+,0,Pakistan,43,4,Shoaib Akhtar,L Balaji,Mohammad Sami,0,0,0
+,0,Pakistan,43,5,Shoaib Akhtar,L Balaji,Mohammad Sami,0,0,0
+,0,Pakistan,44,0,Mohammad Sami,IK Pathan,Fazl-e-Akbar,0,0,0
+,0,Pakistan,44,1,Mohammad Sami,IK Pathan,Fazl-e-Akbar,0,0,0
+,0,Pakistan,44,2,Mohammad Sami,IK Pathan,Fazl-e-Akbar,0,0,0
+,0,Pakistan,44,3,Mohammad Sami,IK Pathan,Fazl-e-Akbar,1,0,1
+,0,Pakistan,44,4,Fazl-e-Akbar,IK Pathan,Mohammad Sami,0,0,0
+,0,Pakistan,44,5,Fazl-e-Akbar,IK Pathan,Mohammad Sami,0,0,0
+,0,Pakistan,45,0,Mohammad Sami,L Balaji,Fazl-e-Akbar,0,0,0
+,0,Pakistan,45,1,Mohammad Sami,L Balaji,Fazl-e-Akbar,0,0,0
+,0,Pakistan,45,2,Mohammad Sami,L Balaji,Fazl-e-Akbar,4,0,4
+,0,Pakistan,45,3,Mohammad Sami,L Balaji,Fazl-e-Akbar,0,0,0
+,0,Pakistan,45,4,Mohammad Sami,L Balaji,Fazl-e-Akbar,0,0,0
+,0,Pakistan,45,5,Mohammad Sami,L Balaji,Fazl-e-Akbar,0,0,0
+,0,Pakistan,46,0,Fazl-e-Akbar,IK Pathan,Mohammad Sami,0,0,0
+,0,Pakistan,46,1,Fazl-e-Akbar,IK Pathan,Mohammad Sami,0,0,0
+,0,Pakistan,46,2,Fazl-e-Akbar,IK Pathan,Mohammad Sami,0,0,0
+,0,Pakistan,46,3,Fazl-e-Akbar,IK Pathan,Mohammad Sami,0,0,0
+,0,Pakistan,46,4,Fazl-e-Akbar,IK Pathan,Mohammad Sami,0,0,0
+,0,Pakistan,46,5,Fazl-e-Akbar,IK Pathan,Mohammad Sami,0,0,0
+,0,Pakistan,47,0,Mohammad Sami,L Balaji,Fazl-e-Akbar,2,0,2
+,0,Pakistan,47,1,Mohammad Sami,L Balaji,Fazl-e-Akbar,4,0,4
+,0,Pakistan,47,2,Mohammad Sami,L Balaji,Fazl-e-Akbar,0,0,0
+,0,Pakistan,47,3,Mohammad Sami,L Balaji,Fazl-e-Akbar,0,0,0
+,0,Pakistan,47,4,Mohammad Sami,L Balaji,Fazl-e-Akbar,1,0,1
+,0,Pakistan,47,5,Fazl-e-Akbar,L Balaji,Mohammad Sami,0,0,0
+,0,Pakistan,48,0,Mohammad Sami,IK Pathan,Fazl-e-Akbar,0,0,0
+,0,Pakistan,48,1,Mohammad Sami,IK Pathan,Fazl-e-Akbar,0,0,0
+,0,Pakistan,48,2,Mohammad Sami,IK Pathan,Fazl-e-Akbar,1,0,1
+,0,Pakistan,48,3,Fazl-e-Akbar,IK Pathan,Mohammad Sami,0,0,0
+,0,Pakistan,48,4,Fazl-e-Akbar,IK Pathan,Mohammad Sami,0,0,0
+,0,Pakistan,48,5,Fazl-e-Akbar,IK Pathan,Mohammad Sami,0,0,0
+,0,Pakistan,49,0,Mohammad Sami,L Balaji,Fazl-e-Akbar,0,0,0
+,0,Pakistan,49,1,Mohammad Sami,L Balaji,Fazl-e-Akbar,0,0,0
+,0,Pakistan,49,2,Mohammad Sami,L Balaji,Fazl-e-Akbar,0,0,0
+,0,Pakistan,49,3,Mohammad Sami,L Balaji,Fazl-e-Akbar,0,0,0
+,0,Pakistan,49,4,Mohammad Sami,L Balaji,Fazl-e-Akbar,0,0,0
+,0,Pakistan,49,5,Mohammad Sami,L Balaji,Fazl-e-Akbar,0,0,0
+,0,Pakistan,50,0,Fazl-e-Akbar,A Kumble,Mohammad Sami,0,0,0
+,0,Pakistan,50,1,Fazl-e-Akbar,A Kumble,Mohammad Sami,0,0,0
+,0,Pakistan,50,2,Fazl-e-Akbar,A Kumble,Mohammad Sami,0,0,0
+,0,Pakistan,50,3,Fazl-e-Akbar,A Kumble,Mohammad Sami,0,0,0
+,0,Pakistan,50,4,Fazl-e-Akbar,A Kumble,Mohammad Sami,0,0,0
+,0,Pakistan,50,5,Fazl-e-Akbar,A Kumble,Mohammad Sami,0,0,0
+,0,Pakistan,51,0,Mohammad Sami,L Balaji,Fazl-e-Akbar,0,0,0
+,0,Pakistan,51,1,Mohammad Sami,L Balaji,Fazl-e-Akbar,0,4,4
+,0,Pakistan,51,2,Mohammad Sami,L Balaji,Fazl-e-Akbar,0,0,0
+,0,Pakistan,51,3,Mohammad Sami,L Balaji,Fazl-e-Akbar,0,0,0
+,0,Pakistan,51,4,Mohammad Sami,L Balaji,Fazl-e-Akbar,4,0,4
+,0,Pakistan,51,5,Mohammad Sami,L Balaji,Fazl-e-Akbar,0,0,0
+,0,Pakistan,52,0,Fazl-e-Akbar,A Kumble,Mohammad Sami,0,0,0
+,0,Pakistan,52,1,Fazl-e-Akbar,A Kumble,Mohammad Sami,4,0,4
+,0,Pakistan,52,2,Fazl-e-Akbar,A Kumble,Mohammad Sami,4,0,4
+,0,Pakistan,52,3,Fazl-e-Akbar,A Kumble,Mohammad Sami,0,0,0
+,0,Pakistan,52,4,Fazl-e-Akbar,A Kumble,Mohammad Sami,0,0,0
+,0,Pakistan,52,5,Fazl-e-Akbar,A Kumble,Mohammad Sami,0,0,0
+,0,Pakistan,53,0,Mohammad Sami,A Nehra,Fazl-e-Akbar,0,0,0
+,0,Pakistan,53,1,Mohammad Sami,A Nehra,Fazl-e-Akbar,2,0,2
+,0,Pakistan,53,2,Mohammad Sami,A Nehra,Fazl-e-Akbar,0,0,0
+,0,Pakistan,53,3,Mohammad Sami,A Nehra,Fazl-e-Akbar,0,0,0
+,0,Pakistan,53,4,Mohammad Sami,A Nehra,Fazl-e-Akbar,0,0,0
+,0,Pakistan,53,5,Mohammad Sami,A Nehra,Fazl-e-Akbar,0,1,1
+,0,Pakistan,53,6,Mohammad Sami,A Nehra,Fazl-e-Akbar,0,0,0
+,0,Pakistan,54,0,Fazl-e-Akbar,IK Pathan,Mohammad Sami,0,0,0
+,0,Pakistan,54,1,Fazl-e-Akbar,IK Pathan,Mohammad Sami,0,1,1
+,0,Pakistan,54,2,Fazl-e-Akbar,IK Pathan,Mohammad Sami,1,0,1
+,0,Pakistan,54,3,Mohammad Sami,IK Pathan,Fazl-e-Akbar,0,0,0
+,0,Pakistan,54,4,Mohammad Sami,IK Pathan,Fazl-e-Akbar,0,0,0
+,0,Pakistan,54,5,Mohammad Sami,IK Pathan,Fazl-e-Akbar,1,0,1
+,0,Pakistan,54,6,Fazl-e-Akbar,IK Pathan,Mohammad Sami,0,0,0
+,0,Pakistan,55,0,Mohammad Sami,A Nehra,Fazl-e-Akbar,0,0,0
+,0,Pakistan,55,1,Mohammad Sami,A Nehra,Fazl-e-Akbar,0,0,0
+,0,Pakistan,55,2,Mohammad Sami,A Nehra,Fazl-e-Akbar,0,0,0
+,0,Pakistan,55,3,Mohammad Sami,A Nehra,Fazl-e-Akbar,0,0,0
+,0,Pakistan,55,4,Mohammad Sami,A Nehra,Fazl-e-Akbar,0,0,0
+,0,Pakistan,55,5,Mohammad Sami,A Nehra,Fazl-e-Akbar,0,0,0
+,0,Pakistan,56,0,Fazl-e-Akbar,IK Pathan,Mohammad Sami,0,0,0
+,0,Pakistan,56,1,Fazl-e-Akbar,IK Pathan,Mohammad Sami,0,0,0
+,0,Pakistan,56,2,Fazl-e-Akbar,IK Pathan,Mohammad Sami,4,0,4
+,0,Pakistan,56,3,Fazl-e-Akbar,IK Pathan,Mohammad Sami,0,0,0
+,0,Pakistan,56,4,Fazl-e-Akbar,IK Pathan,Mohammad Sami,0,0,0
+,0,Pakistan,56,5,Fazl-e-Akbar,IK Pathan,Mohammad Sami,0,0,0
+,0,Pakistan,57,0,Mohammad Sami,A Nehra,Fazl-e-Akbar,0,0,0
+,0,Pakistan,57,1,Mohammad Sami,A Nehra,Fazl-e-Akbar,0,0,0
+,0,Pakistan,57,2,Mohammad Sami,A Nehra,Fazl-e-Akbar,0,0,0
+,0,Pakistan,57,3,Mohammad Sami,A Nehra,Fazl-e-Akbar,0,0,0
+,0,Pakistan,57,4,Mohammad Sami,A Nehra,Fazl-e-Akbar,1,0,1
+,0,Pakistan,57,5,Fazl-e-Akbar,A Nehra,Mohammad Sami,0,0,0
+,0,Pakistan,58,0,Mohammad Sami,IK Pathan,Fazl-e-Akbar,0,0,0
+,0,Pakistan,58,1,Mohammad Sami,IK Pathan,Fazl-e-Akbar,2,0,2
+,0,Pakistan,58,2,Mohammad Sami,IK Pathan,Fazl-e-Akbar,0,1,1
+,0,Pakistan,58,3,Fazl-e-Akbar,IK Pathan,Mohammad Sami,0,0,0
+,0,Pakistan,58,4,Fazl-e-Akbar,IK Pathan,Mohammad Sami,0,1,1
+,0,Pakistan,58,5,Fazl-e-Akbar,IK Pathan,Mohammad Sami,3,0,3
+,0,Pakistan,58,6,Mohammad Sami,IK Pathan,Fazl-e-Akbar,1,0,1
+,0,Pakistan,59,0,Mohammad Sami,A Nehra,Fazl-e-Akbar,0,0,0
+,0,Pakistan,59,1,Mohammad Sami,A Nehra,Fazl-e-Akbar,0,0,0
+,0,Pakistan,59,2,Mohammad Sami,A Nehra,Fazl-e-Akbar,0,0,0
+,0,Pakistan,59,3,Mohammad Sami,A Nehra,Fazl-e-Akbar,4,0,4
+,0,Pakistan,59,4,Mohammad Sami,A Nehra,Fazl-e-Akbar,0,0,0
+,0,Pakistan,59,5,Mohammad Sami,A Nehra,Fazl-e-Akbar,0,0,0
+,0,Pakistan,60,0,Fazl-e-Akbar,A Kumble,Mohammad Sami,0,0,0
+,0,Pakistan,60,1,Fazl-e-Akbar,A Kumble,Mohammad Sami,0,0,0
+,0,Pakistan,60,2,Fazl-e-Akbar,A Kumble,Mohammad Sami,0,0,0
+,0,Pakistan,60,3,Fazl-e-Akbar,A Kumble,Mohammad Sami,0,0,0
+,0,Pakistan,60,4,Fazl-e-Akbar,A Kumble,Mohammad Sami,0,0,0
+,0,Pakistan,60,5,Fazl-e-Akbar,A Kumble,Mohammad Sami,4,0,4
+,0,Pakistan,61,0,Mohammad Sami,A Nehra,Fazl-e-Akbar,0,0,0
+,0,Pakistan,61,1,Mohammad Sami,A Nehra,Fazl-e-Akbar,0,0,0
+,0,Pakistan,61,2,Mohammad Sami,A Nehra,Fazl-e-Akbar,4,0,4
+,0,Pakistan,61,3,Mohammad Sami,A Nehra,Fazl-e-Akbar,0,0,0
+,0,Pakistan,61,4,Mohammad Sami,A Nehra,Fazl-e-Akbar,0,0,0
+,0,Pakistan,61,5,Mohammad Sami,A Nehra,Fazl-e-Akbar,0,0,0
+,0,Pakistan,62,0,Fazl-e-Akbar,A Kumble,Mohammad Sami,1,0,1
+,0,Pakistan,62,1,Mohammad Sami,A Kumble,Fazl-e-Akbar,0,0,0
+,0,Pakistan,62,2,Mohammad Sami,A Kumble,Fazl-e-Akbar,0,0,0
+,0,Pakistan,62,3,Mohammad Sami,A Kumble,Fazl-e-Akbar,1,0,1
+,0,Pakistan,62,4,Fazl-e-Akbar,A Kumble,Mohammad Sami,0,0,0
+,0,Pakistan,62,5,Fazl-e-Akbar,A Kumble,Mohammad Sami,1,0,1
+,0,Pakistan,63,0,Fazl-e-Akbar,A Nehra,Mohammad Sami,1,0,1
+,0,Pakistan,63,1,Mohammad Sami,A Nehra,Fazl-e-Akbar,0,0,0
+,0,Pakistan,63,2,Mohammad Sami,A Nehra,Fazl-e-Akbar,1,0,1
+,0,Pakistan,63,3,Fazl-e-Akbar,A Nehra,Mohammad Sami,1,0,1
+,0,Pakistan,63,4,Mohammad Sami,A Nehra,Fazl-e-Akbar,1,0,1
+,0,Pakistan,63,5,Fazl-e-Akbar,A Nehra,Mohammad Sami,0,0,0
+,0,Pakistan,64,0,Mohammad Sami,A Kumble,Fazl-e-Akbar,1,0,1
+,0,Pakistan,64,1,Fazl-e-Akbar,A Kumble,Mohammad Sami,0,0,0
+,0,Pakistan,64,2,Fazl-e-Akbar,A Kumble,Mohammad Sami,0,0,0
+,0,Pakistan,64,3,Fazl-e-Akbar,A Kumble,Mohammad Sami,1,0,1
+,0,Pakistan,64,4,Mohammad Sami,A Kumble,Fazl-e-Akbar,1,0,1
+,0,Pakistan,64,5,Fazl-e-Akbar,A Kumble,Mohammad Sami,0,0,0
+,0,Pakistan,65,0,Mohammad Sami,A Nehra,Fazl-e-Akbar,0,0,0
+,0,Pakistan,65,1,Mohammad Sami,A Nehra,Fazl-e-Akbar,0,0,0
+,0,Pakistan,65,2,Mohammad Sami,A Nehra,Fazl-e-Akbar,0,0,0
+,0,Pakistan,65,3,Mohammad Sami,A Nehra,Fazl-e-Akbar,0,0,0
+,0,Pakistan,65,4,Mohammad Sami,A Nehra,Fazl-e-Akbar,0,0,0
+,0,Pakistan,65,5,Mohammad Sami,A Nehra,Fazl-e-Akbar,0,0,0
+,0,Pakistan,66,0,Fazl-e-Akbar,A Kumble,Mohammad Sami,0,0,0
+,0,Pakistan,66,1,Danish Kaneria,A Kumble,Mohammad Sami,0,0,0
+,0,Pakistan,66,2,Danish Kaneria,A Kumble,Mohammad Sami,0,0,0
+,0,Pakistan,66,3,Danish Kaneria,A Kumble,Mohammad Sami,0,0,0
+,0,Pakistan,66,4,Danish Kaneria,A Kumble,Mohammad Sami,0,0,0
+,0,Pakistan,66,5,Danish Kaneria,A Kumble,Mohammad Sami,0,0,0
+,0,Pakistan,67,0,Mohammad Sami,L Balaji,Danish Kaneria,0,0,0
+,0,Pakistan,67,1,Mohammad Sami,L Balaji,Danish Kaneria,0,0,0
+,0,Pakistan,67,2,Mohammad Sami,L Balaji,Danish Kaneria,0,0,0
+,0,Pakistan,67,3,Mohammad Sami,L Balaji,Danish Kaneria,0,0,0
+,0,Pakistan,67,4,Mohammad Sami,L Balaji,Danish Kaneria,1,0,1
+,0,Pakistan,67,5,Danish Kaneria,L Balaji,Mohammad Sami,0,0,0
+,0,Pakistan,68,0,Mohammad Sami,A Kumble,Danish Kaneria,0,0,0
+,0,Pakistan,68,1,Mohammad Sami,A Kumble,Danish Kaneria,0,0,0
+,0,Pakistan,68,2,Mohammad Sami,A Kumble,Danish Kaneria,0,0,0
+,0,Pakistan,68,3,Mohammad Sami,A Kumble,Danish Kaneria,1,0,1
+,0,Pakistan,68,4,Danish Kaneria,A Kumble,Mohammad Sami,0,0,0
+,0,Pakistan,68,5,Danish Kaneria,A Kumble,Mohammad Sami,0,0,0
+,0,Pakistan,69,0,Mohammad Sami,L Balaji,Danish Kaneria,0,0,0
+,0,Pakistan,69,1,Mohammad Sami,L Balaji,Danish Kaneria,0,0,0
+,0,Pakistan,69,2,Mohammad Sami,L Balaji,Danish Kaneria,0,0,0
+,0,Pakistan,69,3,Mohammad Sami,L Balaji,Danish Kaneria,1,0,1
+,0,Pakistan,69,4,Danish Kaneria,L Balaji,Mohammad Sami,0,0,0
+,0,Pakistan,69,5,Danish Kaneria,L Balaji,Mohammad Sami,0,0,0
+,0,Pakistan,70,0,Mohammad Sami,A Kumble,Danish Kaneria,0,0,0
+,0,Pakistan,70,1,Mohammad Sami,A Kumble,Danish Kaneria,0,0,0
+,0,Pakistan,70,2,Mohammad Sami,A Kumble,Danish Kaneria,0,0,0
+,0,Pakistan,70,3,Mohammad Sami,A Kumble,Danish Kaneria,0,0,0
+,0,Pakistan,70,4,Mohammad Sami,A Kumble,Danish Kaneria,1,0,1
+,0,Pakistan,70,5,Danish Kaneria,A Kumble,Mohammad Sami,0,0,0
+,0,Pakistan,71,0,Mohammad Sami,L Balaji,Danish Kaneria,4,0,4
+,0,Pakistan,71,1,Mohammad Sami,L Balaji,Danish Kaneria,0,0,0
+,0,Pakistan,71,2,Mohammad Sami,L Balaji,Danish Kaneria,0,0,0
+,0,Pakistan,71,3,Mohammad Sami,L Balaji,Danish Kaneria,0,1,1
+,0,Pakistan,71,4,Danish Kaneria,L Balaji,Mohammad Sami,0,0,0
+,0,Pakistan,71,5,Danish Kaneria,L Balaji,Mohammad Sami,4,0,4
+,0,Pakistan,72,0,Mohammad Sami,A Kumble,Danish Kaneria,0,0,0
+,0,Pakistan,72,1,Mohammad Sami,A Kumble,Danish Kaneria,4,0,4
+,0,Pakistan,72,2,Mohammad Sami,A Kumble,Danish Kaneria,0,0,0
+,0,Pakistan,72,3,Mohammad Sami,A Kumble,Danish Kaneria,0,0,0
+,0,Pakistan,72,4,Mohammad Sami,A Kumble,Danish Kaneria,0,0,0
+,1,India,0,0,V Sehwag,Shoaib Akhtar,PA Patel,0,0,0
+,1,India,0,1,R Dravid,Shoaib Akhtar,PA Patel,0,0,0
+,1,India,0,2,R Dravid,Shoaib Akhtar,PA Patel,0,0,0
+,1,India,0,3,R Dravid,Shoaib Akhtar,PA Patel,0,0,0
+,1,India,0,4,R Dravid,Shoaib Akhtar,PA Patel,0,0,0
+,1,India,0,5,R Dravid,Shoaib Akhtar,PA Patel,0,0,0
+,1,India,1,0,PA Patel,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,1,1,PA Patel,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,1,2,PA Patel,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,1,3,PA Patel,Fazl-e-Akbar,R Dravid,1,0,1
+,1,India,1,4,R Dravid,Fazl-e-Akbar,PA Patel,0,0,0
+,1,India,1,5,R Dravid,Fazl-e-Akbar,PA Patel,0,0,0
+,1,India,2,0,PA Patel,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,2,1,PA Patel,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,2,2,PA Patel,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,2,3,PA Patel,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,2,4,PA Patel,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,2,5,PA Patel,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,3,0,R Dravid,Fazl-e-Akbar,PA Patel,0,0,0
+,1,India,3,1,R Dravid,Fazl-e-Akbar,PA Patel,2,0,2
+,1,India,3,2,R Dravid,Fazl-e-Akbar,PA Patel,0,0,0
+,1,India,3,3,R Dravid,Fazl-e-Akbar,PA Patel,0,0,0
+,1,India,3,4,R Dravid,Fazl-e-Akbar,PA Patel,0,0,0
+,1,India,3,5,R Dravid,Fazl-e-Akbar,PA Patel,0,0,0
+,1,India,4,0,PA Patel,Shoaib Akhtar,R Dravid,1,0,1
+,1,India,4,1,R Dravid,Shoaib Akhtar,PA Patel,0,0,0
+,1,India,4,2,R Dravid,Shoaib Akhtar,PA Patel,0,0,0
+,1,India,4,3,R Dravid,Shoaib Akhtar,PA Patel,0,0,0
+,1,India,4,4,R Dravid,Shoaib Akhtar,PA Patel,0,0,0
+,1,India,4,5,R Dravid,Shoaib Akhtar,PA Patel,3,0,3
+,1,India,5,0,R Dravid,Fazl-e-Akbar,PA Patel,0,0,0
+,1,India,5,1,R Dravid,Fazl-e-Akbar,PA Patel,0,0,0
+,1,India,5,2,R Dravid,Fazl-e-Akbar,PA Patel,0,0,0
+,1,India,5,3,R Dravid,Fazl-e-Akbar,PA Patel,1,0,1
+,1,India,5,4,PA Patel,Fazl-e-Akbar,R Dravid,2,0,2
+,1,India,5,5,PA Patel,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,6,0,R Dravid,Shoaib Akhtar,PA Patel,0,0,0
+,1,India,6,1,R Dravid,Shoaib Akhtar,PA Patel,0,0,0
+,1,India,6,2,R Dravid,Shoaib Akhtar,PA Patel,0,0,0
+,1,India,6,3,R Dravid,Shoaib Akhtar,PA Patel,0,0,0
+,1,India,6,4,R Dravid,Shoaib Akhtar,PA Patel,0,0,0
+,1,India,6,5,R Dravid,Shoaib Akhtar,PA Patel,0,0,0
+,1,India,7,0,PA Patel,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,7,1,PA Patel,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,7,2,PA Patel,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,7,3,PA Patel,Fazl-e-Akbar,R Dravid,4,0,4
+,1,India,7,4,PA Patel,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,7,5,PA Patel,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,8,0,R Dravid,Shoaib Akhtar,PA Patel,0,0,0
+,1,India,8,1,R Dravid,Shoaib Akhtar,PA Patel,0,0,0
+,1,India,8,2,R Dravid,Shoaib Akhtar,PA Patel,0,0,0
+,1,India,8,3,R Dravid,Shoaib Akhtar,PA Patel,0,0,0
+,1,India,8,4,R Dravid,Shoaib Akhtar,PA Patel,0,0,0
+,1,India,8,5,R Dravid,Shoaib Akhtar,PA Patel,0,0,0
+,1,India,9,0,PA Patel,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,9,1,PA Patel,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,9,2,PA Patel,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,9,3,PA Patel,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,9,4,PA Patel,Fazl-e-Akbar,R Dravid,4,0,4
+,1,India,9,5,PA Patel,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,10,0,R Dravid,Danish Kaneria,PA Patel,1,0,1
+,1,India,10,1,PA Patel,Danish Kaneria,R Dravid,0,0,0
+,1,India,10,2,PA Patel,Danish Kaneria,R Dravid,0,0,0
+,1,India,10,3,PA Patel,Danish Kaneria,R Dravid,0,0,0
+,1,India,10,4,PA Patel,Danish Kaneria,R Dravid,0,0,0
+,1,India,10,5,PA Patel,Danish Kaneria,R Dravid,1,0,1
+,1,India,11,0,PA Patel,Mohammad Sami,R Dravid,0,0,0
+,1,India,11,1,PA Patel,Mohammad Sami,R Dravid,0,0,0
+,1,India,11,2,PA Patel,Mohammad Sami,R Dravid,0,0,0
+,1,India,11,3,PA Patel,Mohammad Sami,R Dravid,0,0,0
+,1,India,11,4,PA Patel,Mohammad Sami,R Dravid,0,0,0
+,1,India,11,5,PA Patel,Mohammad Sami,R Dravid,0,0,0
+,1,India,12,0,R Dravid,Danish Kaneria,PA Patel,1,0,1
+,1,India,12,1,PA Patel,Danish Kaneria,R Dravid,0,0,0
+,1,India,12,2,PA Patel,Danish Kaneria,R Dravid,0,0,0
+,1,India,12,3,PA Patel,Danish Kaneria,R Dravid,0,0,0
+,1,India,12,4,PA Patel,Danish Kaneria,R Dravid,0,0,0
+,1,India,12,5,PA Patel,Danish Kaneria,R Dravid,0,0,0
+,1,India,13,0,R Dravid,Mohammad Sami,PA Patel,0,0,0
+,1,India,13,1,R Dravid,Mohammad Sami,PA Patel,0,0,0
+,1,India,13,2,R Dravid,Mohammad Sami,PA Patel,0,0,0
+,1,India,13,3,R Dravid,Mohammad Sami,PA Patel,0,0,0
+,1,India,13,4,R Dravid,Mohammad Sami,PA Patel,0,0,0
+,1,India,13,5,R Dravid,Mohammad Sami,PA Patel,1,0,1
+,1,India,14,0,R Dravid,Danish Kaneria,PA Patel,1,0,1
+,1,India,14,1,PA Patel,Danish Kaneria,R Dravid,0,0,0
+,1,India,14,2,PA Patel,Danish Kaneria,R Dravid,0,0,0
+,1,India,14,3,PA Patel,Danish Kaneria,R Dravid,0,0,0
+,1,India,14,4,PA Patel,Danish Kaneria,R Dravid,0,0,0
+,1,India,14,5,PA Patel,Danish Kaneria,R Dravid,0,0,0
+,1,India,15,0,R Dravid,Mohammad Sami,PA Patel,0,0,0
+,1,India,15,1,R Dravid,Mohammad Sami,PA Patel,0,0,0
+,1,India,15,2,R Dravid,Mohammad Sami,PA Patel,0,0,0
+,1,India,15,3,R Dravid,Mohammad Sami,PA Patel,0,0,0
+,1,India,15,4,R Dravid,Mohammad Sami,PA Patel,0,0,0
+,1,India,15,5,R Dravid,Mohammad Sami,PA Patel,0,0,0
+,1,India,16,0,PA Patel,Shoaib Akhtar,R Dravid,1,0,1
+,1,India,16,1,R Dravid,Shoaib Akhtar,PA Patel,0,0,0
+,1,India,16,2,R Dravid,Shoaib Akhtar,PA Patel,0,0,0
+,1,India,16,3,R Dravid,Shoaib Akhtar,PA Patel,4,0,4
+,1,India,16,4,R Dravid,Shoaib Akhtar,PA Patel,0,0,0
+,1,India,16,5,R Dravid,Shoaib Akhtar,PA Patel,0,0,0
+,1,India,17,0,PA Patel,Mohammad Sami,R Dravid,0,0,0
+,1,India,17,1,PA Patel,Mohammad Sami,R Dravid,0,0,0
+,1,India,17,2,PA Patel,Mohammad Sami,R Dravid,0,0,0
+,1,India,17,3,PA Patel,Mohammad Sami,R Dravid,0,0,0
+,1,India,17,4,PA Patel,Mohammad Sami,R Dravid,0,0,0
+,1,India,17,5,PA Patel,Mohammad Sami,R Dravid,0,0,0
+,1,India,18,0,R Dravid,Shoaib Akhtar,PA Patel,0,0,0
+,1,India,18,1,R Dravid,Shoaib Akhtar,PA Patel,0,0,0
+,1,India,18,2,R Dravid,Shoaib Akhtar,PA Patel,1,0,1
+,1,India,18,3,PA Patel,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,18,4,PA Patel,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,18,5,PA Patel,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,19,0,R Dravid,Mohammad Sami,PA Patel,0,0,0
+,1,India,19,1,R Dravid,Mohammad Sami,PA Patel,0,0,0
+,1,India,19,2,R Dravid,Mohammad Sami,PA Patel,1,0,1
+,1,India,19,3,PA Patel,Mohammad Sami,R Dravid,0,0,0
+,1,India,19,4,PA Patel,Mohammad Sami,R Dravid,0,0,0
+,1,India,19,5,PA Patel,Mohammad Sami,R Dravid,0,0,0
+,1,India,20,0,R Dravid,Shoaib Akhtar,PA Patel,1,0,1
+,1,India,20,1,PA Patel,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,20,2,PA Patel,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,20,3,PA Patel,Shoaib Akhtar,R Dravid,2,0,2
+,1,India,20,4,PA Patel,Shoaib Akhtar,R Dravid,0,1,1
+,1,India,20,5,R Dravid,Shoaib Akhtar,PA Patel,0,0,0
+,1,India,21,0,PA Patel,Mohammad Sami,R Dravid,4,0,4
+,1,India,21,1,PA Patel,Mohammad Sami,R Dravid,0,0,0
+,1,India,21,2,PA Patel,Mohammad Sami,R Dravid,0,0,0
+,1,India,21,3,PA Patel,Mohammad Sami,R Dravid,0,0,0
+,1,India,21,4,PA Patel,Mohammad Sami,R Dravid,0,0,0
+,1,India,21,5,PA Patel,Mohammad Sami,R Dravid,0,0,0
+,1,India,22,0,R Dravid,Shoaib Akhtar,PA Patel,4,0,4
+,1,India,22,1,R Dravid,Shoaib Akhtar,PA Patel,0,1,1
+,1,India,22,2,PA Patel,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,22,3,PA Patel,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,22,4,PA Patel,Shoaib Akhtar,R Dravid,2,0,2
+,1,India,22,5,PA Patel,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,23,0,R Dravid,Mohammad Sami,PA Patel,0,0,0
+,1,India,23,1,R Dravid,Mohammad Sami,PA Patel,1,0,1
+,1,India,23,2,PA Patel,Mohammad Sami,R Dravid,4,0,4
+,1,India,23,3,PA Patel,Mohammad Sami,R Dravid,0,0,0
+,1,India,23,4,PA Patel,Mohammad Sami,R Dravid,4,0,4
+,1,India,23,5,PA Patel,Mohammad Sami,R Dravid,0,0,0
+,1,India,24,0,R Dravid,Fazl-e-Akbar,PA Patel,0,0,0
+,1,India,24,1,R Dravid,Fazl-e-Akbar,PA Patel,0,0,0
+,1,India,24,2,R Dravid,Fazl-e-Akbar,PA Patel,0,0,0
+,1,India,24,3,R Dravid,Fazl-e-Akbar,PA Patel,0,0,0
+,1,India,24,4,R Dravid,Fazl-e-Akbar,PA Patel,0,0,0
+,1,India,24,5,R Dravid,Fazl-e-Akbar,PA Patel,0,0,0
+,1,India,25,0,PA Patel,Mohammad Sami,R Dravid,1,0,1
+,1,India,25,1,R Dravid,Mohammad Sami,PA Patel,0,0,0
+,1,India,25,2,R Dravid,Mohammad Sami,PA Patel,0,0,0
+,1,India,25,3,R Dravid,Mohammad Sami,PA Patel,0,0,0
+,1,India,25,4,R Dravid,Mohammad Sami,PA Patel,0,0,0
+,1,India,25,5,R Dravid,Mohammad Sami,PA Patel,0,0,0
+,1,India,26,0,PA Patel,Fazl-e-Akbar,R Dravid,4,0,4
+,1,India,26,1,PA Patel,Fazl-e-Akbar,R Dravid,1,0,1
+,1,India,26,2,R Dravid,Fazl-e-Akbar,PA Patel,0,0,0
+,1,India,26,3,R Dravid,Fazl-e-Akbar,PA Patel,0,0,0
+,1,India,26,4,R Dravid,Fazl-e-Akbar,PA Patel,0,0,0
+,1,India,26,5,R Dravid,Fazl-e-Akbar,PA Patel,0,0,0
+,1,India,27,0,PA Patel,Mohammad Sami,R Dravid,1,0,1
+,1,India,27,1,R Dravid,Mohammad Sami,PA Patel,0,0,0
+,1,India,27,2,R Dravid,Mohammad Sami,PA Patel,4,0,4
+,1,India,27,3,R Dravid,Mohammad Sami,PA Patel,0,0,0
+,1,India,27,4,R Dravid,Mohammad Sami,PA Patel,2,0,2
+,1,India,27,5,R Dravid,Mohammad Sami,PA Patel,0,0,0
+,1,India,28,0,PA Patel,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,28,1,PA Patel,Fazl-e-Akbar,R Dravid,1,0,1
+,1,India,28,2,R Dravid,Fazl-e-Akbar,PA Patel,1,0,1
+,1,India,28,3,PA Patel,Fazl-e-Akbar,R Dravid,2,0,2
+,1,India,28,4,PA Patel,Fazl-e-Akbar,R Dravid,4,0,4
+,1,India,28,5,PA Patel,Fazl-e-Akbar,R Dravid,4,0,4
+,1,India,29,0,R Dravid,Danish Kaneria,PA Patel,1,0,1
+,1,India,29,1,PA Patel,Danish Kaneria,R Dravid,1,0,1
+,1,India,29,2,R Dravid,Danish Kaneria,PA Patel,0,0,0
+,1,India,29,3,R Dravid,Danish Kaneria,PA Patel,0,0,0
+,1,India,29,4,R Dravid,Danish Kaneria,PA Patel,1,0,1
+,1,India,29,5,PA Patel,Danish Kaneria,R Dravid,0,0,0
+,1,India,30,0,R Dravid,Fazl-e-Akbar,PA Patel,1,0,1
+,1,India,30,1,PA Patel,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,30,2,PA Patel,Fazl-e-Akbar,R Dravid,4,0,4
+,1,India,30,3,PA Patel,Fazl-e-Akbar,R Dravid,1,0,1
+,1,India,30,4,R Dravid,Fazl-e-Akbar,PA Patel,1,0,1
+,1,India,30,5,PA Patel,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,31,0,R Dravid,Danish Kaneria,PA Patel,0,0,0
+,1,India,31,1,R Dravid,Danish Kaneria,PA Patel,0,0,0
+,1,India,31,2,R Dravid,Danish Kaneria,PA Patel,0,0,0
+,1,India,31,3,R Dravid,Danish Kaneria,PA Patel,1,0,1
+,1,India,31,4,PA Patel,Danish Kaneria,R Dravid,0,0,0
+,1,India,31,5,PA Patel,Danish Kaneria,R Dravid,0,0,0
+,1,India,32,0,R Dravid,Shoaib Akhtar,PA Patel,0,0,0
+,1,India,32,1,R Dravid,Shoaib Akhtar,PA Patel,0,0,0
+,1,India,32,2,R Dravid,Shoaib Akhtar,PA Patel,0,0,0
+,1,India,32,3,R Dravid,Shoaib Akhtar,PA Patel,0,0,0
+,1,India,32,4,R Dravid,Shoaib Akhtar,PA Patel,0,0,0
+,1,India,32,5,R Dravid,Shoaib Akhtar,PA Patel,0,0,0
+,1,India,33,0,PA Patel,Danish Kaneria,R Dravid,0,0,0
+,1,India,33,1,PA Patel,Danish Kaneria,R Dravid,1,0,1
+,1,India,33,2,R Dravid,Danish Kaneria,PA Patel,0,0,0
+,1,India,33,3,R Dravid,Danish Kaneria,PA Patel,1,0,1
+,1,India,33,4,PA Patel,Danish Kaneria,R Dravid,0,0,0
+,1,India,33,5,PA Patel,Danish Kaneria,R Dravid,1,0,1
+,1,India,34,0,PA Patel,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,34,1,PA Patel,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,34,2,PA Patel,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,34,3,PA Patel,Shoaib Akhtar,R Dravid,1,0,1
+,1,India,34,4,R Dravid,Shoaib Akhtar,PA Patel,0,0,0
+,1,India,34,5,R Dravid,Shoaib Akhtar,PA Patel,0,4,4
+,1,India,35,0,PA Patel,Danish Kaneria,R Dravid,0,0,0
+,1,India,35,1,PA Patel,Danish Kaneria,R Dravid,2,0,2
+,1,India,35,2,PA Patel,Danish Kaneria,R Dravid,1,0,1
+,1,India,35,3,R Dravid,Danish Kaneria,PA Patel,0,0,0
+,1,India,35,4,R Dravid,Danish Kaneria,PA Patel,1,0,1
+,1,India,35,5,PA Patel,Danish Kaneria,R Dravid,0,1,1
+,1,India,36,0,PA Patel,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,36,1,PA Patel,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,36,2,PA Patel,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,36,3,PA Patel,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,36,4,PA Patel,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,36,5,PA Patel,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,37,0,R Dravid,Danish Kaneria,PA Patel,0,0,0
+,1,India,37,1,R Dravid,Danish Kaneria,PA Patel,0,0,0
+,1,India,37,2,R Dravid,Danish Kaneria,PA Patel,0,0,0
+,1,India,37,3,R Dravid,Danish Kaneria,PA Patel,0,0,0
+,1,India,37,4,R Dravid,Danish Kaneria,PA Patel,0,0,0
+,1,India,37,5,R Dravid,Danish Kaneria,PA Patel,0,0,0
+,1,India,38,0,PA Patel,Mohammad Sami,R Dravid,0,1,1
+,1,India,38,1,R Dravid,Mohammad Sami,PA Patel,4,0,4
+,1,India,38,2,R Dravid,Mohammad Sami,PA Patel,0,0,0
+,1,India,38,3,R Dravid,Mohammad Sami,PA Patel,0,0,0
+,1,India,38,4,R Dravid,Mohammad Sami,PA Patel,4,0,4
+,1,India,38,5,R Dravid,Mohammad Sami,PA Patel,0,0,0
+,1,India,39,0,PA Patel,Danish Kaneria,R Dravid,0,0,0
+,1,India,39,1,PA Patel,Danish Kaneria,R Dravid,0,0,0
+,1,India,39,2,PA Patel,Danish Kaneria,R Dravid,0,0,0
+,1,India,39,3,PA Patel,Danish Kaneria,R Dravid,0,0,0
+,1,India,39,4,PA Patel,Danish Kaneria,R Dravid,0,0,0
+,1,India,39,5,PA Patel,Danish Kaneria,R Dravid,1,0,1
+,1,India,40,0,PA Patel,Mohammad Sami,R Dravid,0,0,0
+,1,India,40,1,PA Patel,Mohammad Sami,R Dravid,0,0,0
+,1,India,40,2,PA Patel,Mohammad Sami,R Dravid,4,0,4
+,1,India,40,3,PA Patel,Mohammad Sami,R Dravid,0,0,0
+,1,India,40,4,PA Patel,Mohammad Sami,R Dravid,0,0,0
+,1,India,40,5,PA Patel,Mohammad Sami,R Dravid,0,0,0
+,1,India,41,0,R Dravid,Danish Kaneria,PA Patel,0,0,0
+,1,India,41,1,R Dravid,Danish Kaneria,PA Patel,2,0,2
+,1,India,41,2,R Dravid,Danish Kaneria,PA Patel,0,0,0
+,1,India,41,3,R Dravid,Danish Kaneria,PA Patel,0,0,0
+,1,India,41,4,R Dravid,Danish Kaneria,PA Patel,0,0,0
+,1,India,41,5,R Dravid,Danish Kaneria,PA Patel,0,0,0
+,1,India,42,0,PA Patel,Mohammad Sami,R Dravid,0,0,0
+,1,India,42,1,PA Patel,Mohammad Sami,R Dravid,0,0,0
+,1,India,42,2,PA Patel,Mohammad Sami,R Dravid,0,0,0
+,1,India,42,3,PA Patel,Mohammad Sami,R Dravid,0,0,0
+,1,India,42,4,PA Patel,Mohammad Sami,R Dravid,0,0,0
+,1,India,42,5,PA Patel,Mohammad Sami,R Dravid,0,0,0
+,1,India,43,0,R Dravid,Danish Kaneria,PA Patel,1,0,1
+,1,India,43,1,PA Patel,Danish Kaneria,R Dravid,1,0,1
+,1,India,43,2,R Dravid,Danish Kaneria,PA Patel,0,0,0
+,1,India,43,3,R Dravid,Danish Kaneria,PA Patel,1,0,1
+,1,India,43,4,PA Patel,Danish Kaneria,R Dravid,0,0,0
+,1,India,43,5,PA Patel,Danish Kaneria,R Dravid,0,0,0
+,1,India,44,0,R Dravid,Fazl-e-Akbar,PA Patel,0,0,0
+,1,India,44,1,R Dravid,Fazl-e-Akbar,PA Patel,0,0,0
+,1,India,44,2,R Dravid,Fazl-e-Akbar,PA Patel,4,0,4
+,1,India,44,3,R Dravid,Fazl-e-Akbar,PA Patel,0,0,0
+,1,India,44,4,R Dravid,Fazl-e-Akbar,PA Patel,0,0,0
+,1,India,44,5,R Dravid,Fazl-e-Akbar,PA Patel,0,0,0
+,1,India,45,0,PA Patel,Danish Kaneria,R Dravid,1,0,1
+,1,India,45,1,R Dravid,Danish Kaneria,PA Patel,0,0,0
+,1,India,45,2,R Dravid,Danish Kaneria,PA Patel,0,0,0
+,1,India,45,3,R Dravid,Danish Kaneria,PA Patel,0,0,0
+,1,India,45,4,R Dravid,Danish Kaneria,PA Patel,0,0,0
+,1,India,45,5,R Dravid,Danish Kaneria,PA Patel,0,0,0
+,1,India,46,0,PA Patel,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,46,1,PA Patel,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,46,2,PA Patel,Fazl-e-Akbar,R Dravid,1,0,1
+,1,India,46,3,R Dravid,Fazl-e-Akbar,PA Patel,0,0,0
+,1,India,46,4,R Dravid,Fazl-e-Akbar,PA Patel,0,0,0
+,1,India,46,5,R Dravid,Fazl-e-Akbar,PA Patel,0,0,0
+,1,India,47,0,PA Patel,Danish Kaneria,R Dravid,0,0,0
+,1,India,47,1,PA Patel,Danish Kaneria,R Dravid,1,0,1
+,1,India,47,2,R Dravid,Danish Kaneria,PA Patel,0,0,0
+,1,India,47,3,R Dravid,Danish Kaneria,PA Patel,0,0,0
+,1,India,47,4,R Dravid,Danish Kaneria,PA Patel,0,0,0
+,1,India,47,5,R Dravid,Danish Kaneria,PA Patel,0,0,0
+,1,India,48,0,PA Patel,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,48,1,SR Tendulkar,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,48,2,SR Tendulkar,Fazl-e-Akbar,R Dravid,1,0,1
+,1,India,48,3,R Dravid,Fazl-e-Akbar,SR Tendulkar,0,0,0
+,1,India,48,4,R Dravid,Fazl-e-Akbar,SR Tendulkar,0,0,0
+,1,India,48,5,R Dravid,Fazl-e-Akbar,SR Tendulkar,0,0,0
+,1,India,49,0,SR Tendulkar,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,49,1,VVS Laxman,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,49,2,VVS Laxman,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,49,3,VVS Laxman,Shoaib Akhtar,R Dravid,1,0,1
+,1,India,49,4,R Dravid,Shoaib Akhtar,VVS Laxman,0,0,0
+,1,India,49,5,R Dravid,Shoaib Akhtar,VVS Laxman,0,0,0
+,1,India,50,0,VVS Laxman,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,50,1,VVS Laxman,Fazl-e-Akbar,R Dravid,1,0,1
+,1,India,50,2,R Dravid,Fazl-e-Akbar,VVS Laxman,0,0,0
+,1,India,50,3,R Dravid,Fazl-e-Akbar,VVS Laxman,0,0,0
+,1,India,50,4,R Dravid,Fazl-e-Akbar,VVS Laxman,0,0,0
+,1,India,50,5,R Dravid,Fazl-e-Akbar,VVS Laxman,0,0,0
+,1,India,51,0,VVS Laxman,Shoaib Akhtar,R Dravid,4,0,4
+,1,India,51,1,VVS Laxman,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,51,2,VVS Laxman,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,51,3,VVS Laxman,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,51,4,VVS Laxman,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,51,5,VVS Laxman,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,52,0,R Dravid,Fazl-e-Akbar,VVS Laxman,0,0,0
+,1,India,52,1,R Dravid,Fazl-e-Akbar,VVS Laxman,4,0,4
+,1,India,52,2,R Dravid,Fazl-e-Akbar,VVS Laxman,0,0,0
+,1,India,52,3,R Dravid,Fazl-e-Akbar,VVS Laxman,0,0,0
+,1,India,52,4,R Dravid,Fazl-e-Akbar,VVS Laxman,0,0,0
+,1,India,52,5,R Dravid,Fazl-e-Akbar,VVS Laxman,0,0,0
+,1,India,53,0,VVS Laxman,Shoaib Akhtar,R Dravid,0,4,4
+,1,India,53,1,VVS Laxman,Shoaib Akhtar,R Dravid,2,0,2
+,1,India,53,2,VVS Laxman,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,53,3,VVS Laxman,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,53,4,VVS Laxman,Shoaib Akhtar,R Dravid,2,0,2
+,1,India,53,5,VVS Laxman,Shoaib Akhtar,R Dravid,2,0,2
+,1,India,54,0,R Dravid,Fazl-e-Akbar,VVS Laxman,0,0,0
+,1,India,54,1,R Dravid,Fazl-e-Akbar,VVS Laxman,0,0,0
+,1,India,54,2,R Dravid,Fazl-e-Akbar,VVS Laxman,0,0,0
+,1,India,54,3,R Dravid,Fazl-e-Akbar,VVS Laxman,0,0,0
+,1,India,54,4,R Dravid,Fazl-e-Akbar,VVS Laxman,1,0,1
+,1,India,54,5,VVS Laxman,Fazl-e-Akbar,R Dravid,4,0,4
+,1,India,55,0,R Dravid,Mohammad Sami,VVS Laxman,0,0,0
+,1,India,55,1,R Dravid,Mohammad Sami,VVS Laxman,4,0,4
+,1,India,55,2,R Dravid,Mohammad Sami,VVS Laxman,0,0,0
+,1,India,55,3,R Dravid,Mohammad Sami,VVS Laxman,0,0,0
+,1,India,55,4,R Dravid,Mohammad Sami,VVS Laxman,0,0,0
+,1,India,55,5,R Dravid,Mohammad Sami,VVS Laxman,0,0,0
+,1,India,56,0,VVS Laxman,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,56,1,VVS Laxman,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,56,2,VVS Laxman,Fazl-e-Akbar,R Dravid,4,0,4
+,1,India,56,3,VVS Laxman,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,56,4,VVS Laxman,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,56,5,VVS Laxman,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,57,0,R Dravid,Mohammad Sami,VVS Laxman,4,0,4
+,1,India,57,1,R Dravid,Mohammad Sami,VVS Laxman,4,0,4
+,1,India,57,2,R Dravid,Mohammad Sami,VVS Laxman,0,0,0
+,1,India,57,3,R Dravid,Mohammad Sami,VVS Laxman,0,0,0
+,1,India,57,4,R Dravid,Mohammad Sami,VVS Laxman,0,0,0
+,1,India,57,5,R Dravid,Mohammad Sami,VVS Laxman,0,0,0
+,1,India,58,0,VVS Laxman,Danish Kaneria,R Dravid,0,0,0
+,1,India,58,1,VVS Laxman,Danish Kaneria,R Dravid,0,0,0
+,1,India,58,2,VVS Laxman,Danish Kaneria,R Dravid,2,0,2
+,1,India,58,3,VVS Laxman,Danish Kaneria,R Dravid,0,0,0
+,1,India,58,4,VVS Laxman,Danish Kaneria,R Dravid,0,0,0
+,1,India,58,5,VVS Laxman,Danish Kaneria,R Dravid,0,0,0
+,1,India,59,0,R Dravid,Mohammad Sami,VVS Laxman,0,0,0
+,1,India,59,1,R Dravid,Mohammad Sami,VVS Laxman,0,0,0
+,1,India,59,2,R Dravid,Mohammad Sami,VVS Laxman,0,0,0
+,1,India,59,3,R Dravid,Mohammad Sami,VVS Laxman,1,0,1
+,1,India,59,4,VVS Laxman,Mohammad Sami,R Dravid,0,0,0
+,1,India,59,5,VVS Laxman,Mohammad Sami,R Dravid,0,0,0
+,1,India,60,0,R Dravid,Danish Kaneria,VVS Laxman,1,0,1
+,1,India,60,1,VVS Laxman,Danish Kaneria,R Dravid,2,0,2
+,1,India,60,2,VVS Laxman,Danish Kaneria,R Dravid,0,0,0
+,1,India,60,3,VVS Laxman,Danish Kaneria,R Dravid,0,0,0
+,1,India,60,4,VVS Laxman,Danish Kaneria,R Dravid,0,0,0
+,1,India,60,5,VVS Laxman,Danish Kaneria,R Dravid,0,0,0
+,1,India,61,0,R Dravid,Mohammad Sami,VVS Laxman,0,0,0
+,1,India,61,1,R Dravid,Mohammad Sami,VVS Laxman,0,0,0
+,1,India,61,2,R Dravid,Mohammad Sami,VVS Laxman,0,0,0
+,1,India,61,3,R Dravid,Mohammad Sami,VVS Laxman,0,0,0
+,1,India,61,4,R Dravid,Mohammad Sami,VVS Laxman,0,0,0
+,1,India,61,5,R Dravid,Mohammad Sami,VVS Laxman,0,0,0
+,1,India,62,0,VVS Laxman,Danish Kaneria,R Dravid,0,0,0
+,1,India,62,1,VVS Laxman,Danish Kaneria,R Dravid,1,0,1
+,1,India,62,2,R Dravid,Danish Kaneria,VVS Laxman,0,0,0
+,1,India,62,3,R Dravid,Danish Kaneria,VVS Laxman,0,0,0
+,1,India,62,4,R Dravid,Danish Kaneria,VVS Laxman,0,0,0
+,1,India,62,5,R Dravid,Danish Kaneria,VVS Laxman,2,0,2
+,1,India,63,0,VVS Laxman,Mohammad Sami,R Dravid,0,0,0
+,1,India,63,1,VVS Laxman,Mohammad Sami,R Dravid,0,0,0
+,1,India,63,2,VVS Laxman,Mohammad Sami,R Dravid,0,1,1
+,1,India,63,3,VVS Laxman,Mohammad Sami,R Dravid,0,0,0
+,1,India,63,4,VVS Laxman,Mohammad Sami,R Dravid,4,0,4
+,1,India,63,5,VVS Laxman,Mohammad Sami,R Dravid,0,0,0
+,1,India,63,6,VVS Laxman,Mohammad Sami,R Dravid,0,0,0
+,1,India,64,0,R Dravid,Danish Kaneria,VVS Laxman,4,0,4
+,1,India,64,1,R Dravid,Danish Kaneria,VVS Laxman,0,0,0
+,1,India,64,2,R Dravid,Danish Kaneria,VVS Laxman,0,0,0
+,1,India,64,3,R Dravid,Danish Kaneria,VVS Laxman,0,0,0
+,1,India,64,4,R Dravid,Danish Kaneria,VVS Laxman,0,0,0
+,1,India,64,5,R Dravid,Danish Kaneria,VVS Laxman,1,0,1
+,1,India,65,0,R Dravid,Shoaib Akhtar,VVS Laxman,0,0,0
+,1,India,65,1,R Dravid,Shoaib Akhtar,VVS Laxman,0,0,0
+,1,India,65,2,R Dravid,Shoaib Akhtar,VVS Laxman,1,0,1
+,1,India,65,3,VVS Laxman,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,65,4,VVS Laxman,Shoaib Akhtar,R Dravid,1,0,1
+,1,India,65,5,R Dravid,Shoaib Akhtar,VVS Laxman,0,0,0
+,1,India,66,0,VVS Laxman,Danish Kaneria,R Dravid,1,0,1
+,1,India,66,1,R Dravid,Danish Kaneria,VVS Laxman,0,0,0
+,1,India,66,2,R Dravid,Danish Kaneria,VVS Laxman,0,0,0
+,1,India,66,3,R Dravid,Danish Kaneria,VVS Laxman,4,0,4
+,1,India,66,4,R Dravid,Danish Kaneria,VVS Laxman,1,0,1
+,1,India,66,5,VVS Laxman,Danish Kaneria,R Dravid,0,0,0
+,1,India,67,0,R Dravid,Shoaib Akhtar,VVS Laxman,0,0,0
+,1,India,67,1,R Dravid,Shoaib Akhtar,VVS Laxman,0,0,0
+,1,India,67,2,R Dravid,Shoaib Akhtar,VVS Laxman,0,0,0
+,1,India,67,3,R Dravid,Shoaib Akhtar,VVS Laxman,0,0,0
+,1,India,67,4,R Dravid,Shoaib Akhtar,VVS Laxman,0,0,0
+,1,India,67,5,R Dravid,Shoaib Akhtar,VVS Laxman,0,0,0
+,1,India,68,0,VVS Laxman,Danish Kaneria,R Dravid,1,0,1
+,1,India,68,1,R Dravid,Danish Kaneria,VVS Laxman,0,0,0
+,1,India,68,2,R Dravid,Danish Kaneria,VVS Laxman,0,0,0
+,1,India,68,3,R Dravid,Danish Kaneria,VVS Laxman,0,0,0
+,1,India,68,4,R Dravid,Danish Kaneria,VVS Laxman,0,0,0
+,1,India,68,5,R Dravid,Danish Kaneria,VVS Laxman,0,0,0
+,1,India,69,0,VVS Laxman,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,69,1,VVS Laxman,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,69,2,VVS Laxman,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,69,3,VVS Laxman,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,69,4,VVS Laxman,Shoaib Akhtar,R Dravid,4,0,4
+,1,India,69,5,VVS Laxman,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,70,0,R Dravid,Fazl-e-Akbar,VVS Laxman,0,0,0
+,1,India,70,1,R Dravid,Fazl-e-Akbar,VVS Laxman,0,0,0
+,1,India,70,2,R Dravid,Fazl-e-Akbar,VVS Laxman,1,0,1
+,1,India,70,3,VVS Laxman,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,70,4,VVS Laxman,Fazl-e-Akbar,R Dravid,4,0,4
+,1,India,70,5,VVS Laxman,Fazl-e-Akbar,R Dravid,4,0,4
+,1,India,71,0,R Dravid,Danish Kaneria,VVS Laxman,0,0,0
+,1,India,71,1,R Dravid,Danish Kaneria,VVS Laxman,0,0,0
+,1,India,71,2,R Dravid,Danish Kaneria,VVS Laxman,0,0,0
+,1,India,71,3,R Dravid,Danish Kaneria,VVS Laxman,1,0,1
+,1,India,71,4,VVS Laxman,Danish Kaneria,R Dravid,0,0,0
+,1,India,71,5,VVS Laxman,Danish Kaneria,R Dravid,0,0,0
+,1,India,72,0,R Dravid,Fazl-e-Akbar,VVS Laxman,0,0,0
+,1,India,72,1,R Dravid,Fazl-e-Akbar,VVS Laxman,0,0,0
+,1,India,72,2,R Dravid,Fazl-e-Akbar,VVS Laxman,4,0,4
+,1,India,72,3,R Dravid,Fazl-e-Akbar,VVS Laxman,0,0,0
+,1,India,72,4,R Dravid,Fazl-e-Akbar,VVS Laxman,0,0,0
+,1,India,72,5,R Dravid,Fazl-e-Akbar,VVS Laxman,0,0,0
+,1,India,73,0,VVS Laxman,Danish Kaneria,R Dravid,0,0,0
+,1,India,73,1,VVS Laxman,Danish Kaneria,R Dravid,0,0,0
+,1,India,73,2,VVS Laxman,Danish Kaneria,R Dravid,1,0,1
+,1,India,73,3,R Dravid,Danish Kaneria,VVS Laxman,1,0,1
+,1,India,73,4,VVS Laxman,Danish Kaneria,R Dravid,1,0,1
+,1,India,73,5,R Dravid,Danish Kaneria,VVS Laxman,0,0,0
+,1,India,74,0,VVS Laxman,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,74,1,VVS Laxman,Fazl-e-Akbar,R Dravid,4,0,4
+,1,India,74,2,VVS Laxman,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,74,3,VVS Laxman,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,74,4,VVS Laxman,Fazl-e-Akbar,R Dravid,4,0,4
+,1,India,74,5,VVS Laxman,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,75,0,R Dravid,Danish Kaneria,VVS Laxman,0,0,0
+,1,India,75,1,R Dravid,Danish Kaneria,VVS Laxman,0,0,0
+,1,India,75,2,R Dravid,Danish Kaneria,VVS Laxman,0,0,0
+,1,India,75,3,R Dravid,Danish Kaneria,VVS Laxman,0,0,0
+,1,India,75,4,R Dravid,Danish Kaneria,VVS Laxman,2,0,2
+,1,India,75,5,R Dravid,Danish Kaneria,VVS Laxman,1,0,1
+,1,India,76,0,R Dravid,Fazl-e-Akbar,VVS Laxman,0,0,0
+,1,India,76,1,R Dravid,Fazl-e-Akbar,VVS Laxman,0,0,0
+,1,India,76,2,R Dravid,Fazl-e-Akbar,VVS Laxman,0,0,0
+,1,India,76,3,R Dravid,Fazl-e-Akbar,VVS Laxman,1,0,1
+,1,India,76,4,VVS Laxman,Fazl-e-Akbar,R Dravid,1,0,1
+,1,India,76,5,R Dravid,Fazl-e-Akbar,VVS Laxman,0,0,0
+,1,India,77,0,VVS Laxman,Danish Kaneria,R Dravid,4,0,4
+,1,India,77,1,VVS Laxman,Danish Kaneria,R Dravid,0,0,0
+,1,India,77,2,VVS Laxman,Danish Kaneria,R Dravid,0,0,0
+,1,India,77,3,VVS Laxman,Danish Kaneria,R Dravid,1,0,1
+,1,India,77,4,R Dravid,Danish Kaneria,VVS Laxman,0,0,0
+,1,India,77,5,R Dravid,Danish Kaneria,VVS Laxman,0,0,0
+,1,India,78,0,VVS Laxman,Fazl-e-Akbar,R Dravid,4,0,4
+,1,India,78,1,VVS Laxman,Fazl-e-Akbar,R Dravid,4,0,4
+,1,India,78,2,VVS Laxman,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,78,3,VVS Laxman,Fazl-e-Akbar,R Dravid,1,0,1
+,1,India,78,4,R Dravid,Fazl-e-Akbar,VVS Laxman,0,0,0
+,1,India,78,5,R Dravid,Fazl-e-Akbar,VVS Laxman,4,0,4
+,1,India,79,0,VVS Laxman,Danish Kaneria,R Dravid,1,0,1
+,1,India,79,1,R Dravid,Danish Kaneria,VVS Laxman,0,0,0
+,1,India,79,2,R Dravid,Danish Kaneria,VVS Laxman,1,0,1
+,1,India,79,3,VVS Laxman,Danish Kaneria,R Dravid,0,0,0
+,1,India,79,4,VVS Laxman,Danish Kaneria,R Dravid,0,0,0
+,1,India,79,5,VVS Laxman,Danish Kaneria,R Dravid,0,0,0
+,1,India,80,0,R Dravid,Mohammad Sami,VVS Laxman,1,0,1
+,1,India,80,1,VVS Laxman,Mohammad Sami,R Dravid,0,0,0
+,1,India,80,2,VVS Laxman,Mohammad Sami,R Dravid,0,0,0
+,1,India,80,3,VVS Laxman,Mohammad Sami,R Dravid,0,0,0
+,1,India,80,4,VVS Laxman,Mohammad Sami,R Dravid,0,0,0
+,1,India,80,5,VVS Laxman,Mohammad Sami,R Dravid,0,0,0
+,1,India,81,0,R Dravid,Shoaib Akhtar,VVS Laxman,1,0,1
+,1,India,81,1,VVS Laxman,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,81,2,VVS Laxman,Shoaib Akhtar,R Dravid,1,0,1
+,1,India,81,3,R Dravid,Shoaib Akhtar,VVS Laxman,4,0,4
+,1,India,81,4,R Dravid,Shoaib Akhtar,VVS Laxman,0,0,0
+,1,India,81,5,R Dravid,Shoaib Akhtar,VVS Laxman,0,0,0
+,1,India,82,0,VVS Laxman,Mohammad Sami,R Dravid,0,0,0
+,1,India,82,1,VVS Laxman,Mohammad Sami,R Dravid,0,0,0
+,1,India,82,2,VVS Laxman,Mohammad Sami,R Dravid,0,0,0
+,1,India,82,3,VVS Laxman,Mohammad Sami,R Dravid,0,0,0
+,1,India,82,4,VVS Laxman,Mohammad Sami,R Dravid,0,0,0
+,1,India,82,5,VVS Laxman,Mohammad Sami,R Dravid,0,0,0
+,1,India,83,0,R Dravid,Shoaib Akhtar,VVS Laxman,0,0,0
+,1,India,83,1,R Dravid,Shoaib Akhtar,VVS Laxman,0,0,0
+,1,India,83,2,R Dravid,Shoaib Akhtar,VVS Laxman,0,0,0
+,1,India,83,3,R Dravid,Shoaib Akhtar,VVS Laxman,1,0,1
+,1,India,83,4,VVS Laxman,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,83,5,VVS Laxman,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,84,0,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,84,1,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,84,2,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,84,3,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,84,4,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,84,5,R Dravid,Mohammad Sami,SC Ganguly,1,0,1
+,1,India,85,0,R Dravid,Shoaib Akhtar,SC Ganguly,1,0,1
+,1,India,85,1,SC Ganguly,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,85,2,SC Ganguly,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,85,3,SC Ganguly,Shoaib Akhtar,R Dravid,1,0,1
+,1,India,85,4,R Dravid,Shoaib Akhtar,SC Ganguly,0,0,0
+,1,India,85,5,R Dravid,Shoaib Akhtar,SC Ganguly,0,0,0
+,1,India,86,0,SC Ganguly,Mohammad Sami,R Dravid,0,0,0
+,1,India,86,1,SC Ganguly,Mohammad Sami,R Dravid,0,0,0
+,1,India,86,2,SC Ganguly,Mohammad Sami,R Dravid,0,0,0
+,1,India,86,3,SC Ganguly,Mohammad Sami,R Dravid,4,0,4
+,1,India,86,4,SC Ganguly,Mohammad Sami,R Dravid,4,0,4
+,1,India,86,5,SC Ganguly,Mohammad Sami,R Dravid,1,0,1
+,1,India,87,0,SC Ganguly,Shoaib Akhtar,R Dravid,0,0,0
+,1,India,87,1,SC Ganguly,Shoaib Akhtar,R Dravid,1,0,1
+,1,India,87,2,R Dravid,Fazl-e-Akbar,SC Ganguly,0,0,0
+,1,India,87,3,R Dravid,Fazl-e-Akbar,SC Ganguly,0,0,0
+,1,India,87,4,R Dravid,Fazl-e-Akbar,SC Ganguly,0,0,0
+,1,India,87,5,R Dravid,Fazl-e-Akbar,SC Ganguly,0,0,0
+,1,India,88,0,SC Ganguly,Mohammad Sami,R Dravid,0,0,0
+,1,India,88,1,SC Ganguly,Mohammad Sami,R Dravid,4,0,4
+,1,India,88,2,SC Ganguly,Mohammad Sami,R Dravid,0,0,0
+,1,India,88,3,SC Ganguly,Mohammad Sami,R Dravid,0,0,0
+,1,India,88,4,SC Ganguly,Mohammad Sami,R Dravid,0,0,0
+,1,India,88,5,SC Ganguly,Mohammad Sami,R Dravid,4,0,4
+,1,India,89,0,R Dravid,Fazl-e-Akbar,SC Ganguly,1,0,1
+,1,India,89,1,SC Ganguly,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,89,2,SC Ganguly,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,89,3,SC Ganguly,Fazl-e-Akbar,R Dravid,2,0,2
+,1,India,89,4,SC Ganguly,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,89,5,SC Ganguly,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,90,0,R Dravid,Danish Kaneria,SC Ganguly,0,0,0
+,1,India,90,1,R Dravid,Danish Kaneria,SC Ganguly,1,0,1
+,1,India,90,2,SC Ganguly,Danish Kaneria,R Dravid,0,0,0
+,1,India,90,3,SC Ganguly,Danish Kaneria,R Dravid,2,0,2
+,1,India,90,4,SC Ganguly,Danish Kaneria,R Dravid,4,0,4
+,1,India,90,5,SC Ganguly,Danish Kaneria,R Dravid,0,0,0
+,1,India,91,0,R Dravid,Fazl-e-Akbar,SC Ganguly,0,0,0
+,1,India,91,1,R Dravid,Fazl-e-Akbar,SC Ganguly,0,0,0
+,1,India,91,2,R Dravid,Fazl-e-Akbar,SC Ganguly,0,0,0
+,1,India,91,3,R Dravid,Fazl-e-Akbar,SC Ganguly,1,0,1
+,1,India,91,4,SC Ganguly,Fazl-e-Akbar,R Dravid,1,0,1
+,1,India,91,5,R Dravid,Fazl-e-Akbar,SC Ganguly,0,0,0
+,1,India,92,0,SC Ganguly,Danish Kaneria,R Dravid,1,0,1
+,1,India,92,1,R Dravid,Danish Kaneria,SC Ganguly,1,0,1
+,1,India,92,2,SC Ganguly,Danish Kaneria,R Dravid,0,0,0
+,1,India,92,3,SC Ganguly,Danish Kaneria,R Dravid,0,0,0
+,1,India,92,4,SC Ganguly,Danish Kaneria,R Dravid,0,0,0
+,1,India,92,5,SC Ganguly,Danish Kaneria,R Dravid,1,0,1
+,1,India,93,0,SC Ganguly,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,93,1,SC Ganguly,Fazl-e-Akbar,R Dravid,1,0,1
+,1,India,93,2,R Dravid,Fazl-e-Akbar,SC Ganguly,0,0,0
+,1,India,93,3,R Dravid,Fazl-e-Akbar,SC Ganguly,0,0,0
+,1,India,93,4,R Dravid,Fazl-e-Akbar,SC Ganguly,0,0,0
+,1,India,93,5,R Dravid,Fazl-e-Akbar,SC Ganguly,4,0,4
+,1,India,94,0,SC Ganguly,Danish Kaneria,R Dravid,0,0,0
+,1,India,94,1,SC Ganguly,Danish Kaneria,R Dravid,0,0,0
+,1,India,94,2,SC Ganguly,Danish Kaneria,R Dravid,0,0,0
+,1,India,94,3,SC Ganguly,Danish Kaneria,R Dravid,0,0,0
+,1,India,94,4,SC Ganguly,Danish Kaneria,R Dravid,0,0,0
+,1,India,94,5,SC Ganguly,Danish Kaneria,R Dravid,0,0,0
+,1,India,95,0,R Dravid,Fazl-e-Akbar,SC Ganguly,0,0,0
+,1,India,95,1,R Dravid,Fazl-e-Akbar,SC Ganguly,0,0,0
+,1,India,95,2,R Dravid,Fazl-e-Akbar,SC Ganguly,0,0,0
+,1,India,95,3,R Dravid,Fazl-e-Akbar,SC Ganguly,0,0,0
+,1,India,95,4,R Dravid,Fazl-e-Akbar,SC Ganguly,0,0,0
+,1,India,95,5,R Dravid,Fazl-e-Akbar,SC Ganguly,0,0,0
+,1,India,96,0,SC Ganguly,Danish Kaneria,R Dravid,1,0,1
+,1,India,96,1,R Dravid,Danish Kaneria,SC Ganguly,1,0,1
+,1,India,96,2,SC Ganguly,Danish Kaneria,R Dravid,0,0,0
+,1,India,96,3,SC Ganguly,Danish Kaneria,R Dravid,1,0,1
+,1,India,96,4,R Dravid,Danish Kaneria,SC Ganguly,0,0,0
+,1,India,96,5,R Dravid,Danish Kaneria,SC Ganguly,1,0,1
+,1,India,97,0,R Dravid,Fazl-e-Akbar,SC Ganguly,4,0,4
+,1,India,97,1,R Dravid,Fazl-e-Akbar,SC Ganguly,0,0,0
+,1,India,97,2,R Dravid,Fazl-e-Akbar,SC Ganguly,2,0,2
+,1,India,97,3,R Dravid,Fazl-e-Akbar,SC Ganguly,0,0,0
+,1,India,97,4,R Dravid,Fazl-e-Akbar,SC Ganguly,4,0,4
+,1,India,97,5,R Dravid,Fazl-e-Akbar,SC Ganguly,0,0,0
+,1,India,98,0,SC Ganguly,Danish Kaneria,R Dravid,0,0,0
+,1,India,98,1,SC Ganguly,Danish Kaneria,R Dravid,1,0,1
+,1,India,98,2,R Dravid,Danish Kaneria,SC Ganguly,0,0,0
+,1,India,98,3,R Dravid,Danish Kaneria,SC Ganguly,0,0,0
+,1,India,98,4,R Dravid,Danish Kaneria,SC Ganguly,0,0,0
+,1,India,98,5,R Dravid,Danish Kaneria,SC Ganguly,0,0,0
+,1,India,99,0,SC Ganguly,Imran Farhat,R Dravid,0,0,0
+,1,India,99,1,SC Ganguly,Imran Farhat,R Dravid,0,0,0
+,1,India,99,2,SC Ganguly,Imran Farhat,R Dravid,0,0,0
+,1,India,99,3,SC Ganguly,Imran Farhat,R Dravid,4,0,4
+,1,India,99,4,SC Ganguly,Imran Farhat,R Dravid,0,0,0
+,1,India,99,5,SC Ganguly,Imran Farhat,R Dravid,1,0,1
+,1,India,100,0,SC Ganguly,Danish Kaneria,R Dravid,2,0,2
+,1,India,100,1,SC Ganguly,Danish Kaneria,R Dravid,0,0,0
+,1,India,100,2,SC Ganguly,Danish Kaneria,R Dravid,1,0,1
+,1,India,100,3,R Dravid,Danish Kaneria,SC Ganguly,0,0,0
+,1,India,100,4,R Dravid,Danish Kaneria,SC Ganguly,0,0,0
+,1,India,100,5,R Dravid,Danish Kaneria,SC Ganguly,4,0,4
+,1,India,101,0,SC Ganguly,Imran Farhat,R Dravid,0,0,0
+,1,India,101,1,SC Ganguly,Imran Farhat,R Dravid,0,0,0
+,1,India,101,2,SC Ganguly,Imran Farhat,R Dravid,4,0,4
+,1,India,101,3,SC Ganguly,Imran Farhat,R Dravid,1,0,1
+,1,India,101,4,R Dravid,Imran Farhat,SC Ganguly,0,0,0
+,1,India,101,5,R Dravid,Imran Farhat,SC Ganguly,0,0,0
+,1,India,102,0,SC Ganguly,Danish Kaneria,R Dravid,0,0,0
+,1,India,102,1,SC Ganguly,Danish Kaneria,R Dravid,0,0,0
+,1,India,102,2,SC Ganguly,Danish Kaneria,R Dravid,0,0,0
+,1,India,102,3,SC Ganguly,Danish Kaneria,R Dravid,0,0,0
+,1,India,102,4,SC Ganguly,Danish Kaneria,R Dravid,0,0,0
+,1,India,102,5,SC Ganguly,Danish Kaneria,R Dravid,1,0,1
+,1,India,103,0,SC Ganguly,Imran Farhat,R Dravid,0,0,0
+,1,India,103,1,SC Ganguly,Imran Farhat,R Dravid,0,0,0
+,1,India,103,2,SC Ganguly,Imran Farhat,R Dravid,0,0,0
+,1,India,103,3,SC Ganguly,Imran Farhat,R Dravid,0,0,0
+,1,India,103,4,SC Ganguly,Imran Farhat,R Dravid,0,0,0
+,1,India,103,5,SC Ganguly,Imran Farhat,R Dravid,0,1,1
+,1,India,104,0,SC Ganguly,Danish Kaneria,R Dravid,1,0,1
+,1,India,104,1,R Dravid,Danish Kaneria,SC Ganguly,0,0,0
+,1,India,104,2,R Dravid,Danish Kaneria,SC Ganguly,0,0,0
+,1,India,104,3,R Dravid,Danish Kaneria,SC Ganguly,0,0,0
+,1,India,104,4,R Dravid,Danish Kaneria,SC Ganguly,1,0,1
+,1,India,104,5,SC Ganguly,Danish Kaneria,R Dravid,4,0,4
+,1,India,105,0,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,105,1,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,105,2,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,105,3,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,105,4,R Dravid,Mohammad Sami,SC Ganguly,0,1,1
+,1,India,105,5,SC Ganguly,Mohammad Sami,R Dravid,0,0,0
+,1,India,106,0,R Dravid,Danish Kaneria,SC Ganguly,0,0,0
+,1,India,106,1,R Dravid,Danish Kaneria,SC Ganguly,1,0,1
+,1,India,106,2,SC Ganguly,Danish Kaneria,R Dravid,0,0,0
+,1,India,106,3,SC Ganguly,Danish Kaneria,R Dravid,0,0,0
+,1,India,106,4,SC Ganguly,Danish Kaneria,R Dravid,0,0,0
+,1,India,106,5,SC Ganguly,Danish Kaneria,R Dravid,0,0,0
+,1,India,107,0,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,107,1,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,107,2,R Dravid,Mohammad Sami,SC Ganguly,4,0,4
+,1,India,107,3,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,107,4,R Dravid,Mohammad Sami,SC Ganguly,1,0,1
+,1,India,107,5,SC Ganguly,Mohammad Sami,R Dravid,0,0,0
+,1,India,108,0,R Dravid,Fazl-e-Akbar,SC Ganguly,0,0,0
+,1,India,108,1,R Dravid,Fazl-e-Akbar,SC Ganguly,0,0,0
+,1,India,108,2,R Dravid,Fazl-e-Akbar,SC Ganguly,0,0,0
+,1,India,108,3,R Dravid,Fazl-e-Akbar,SC Ganguly,0,0,0
+,1,India,108,4,R Dravid,Fazl-e-Akbar,SC Ganguly,0,0,0
+,1,India,108,5,R Dravid,Fazl-e-Akbar,SC Ganguly,1,0,1
+,1,India,109,0,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,109,1,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,109,2,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,109,3,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,109,4,R Dravid,Mohammad Sami,SC Ganguly,2,0,2
+,1,India,109,5,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,110,0,SC Ganguly,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,110,1,SC Ganguly,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,110,2,SC Ganguly,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,110,3,SC Ganguly,Fazl-e-Akbar,R Dravid,1,0,1
+,1,India,110,4,R Dravid,Fazl-e-Akbar,SC Ganguly,1,0,1
+,1,India,110,5,SC Ganguly,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,111,0,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,111,1,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,111,2,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,111,3,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,111,4,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,111,5,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,112,0,SC Ganguly,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,112,1,SC Ganguly,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,112,2,SC Ganguly,Fazl-e-Akbar,R Dravid,1,0,1
+,1,India,112,3,R Dravid,Fazl-e-Akbar,SC Ganguly,0,0,0
+,1,India,112,4,R Dravid,Fazl-e-Akbar,SC Ganguly,0,0,0
+,1,India,112,5,R Dravid,Fazl-e-Akbar,SC Ganguly,0,0,0
+,1,India,113,0,SC Ganguly,Mohammad Sami,R Dravid,0,0,0
+,1,India,113,1,SC Ganguly,Mohammad Sami,R Dravid,0,0,0
+,1,India,113,2,SC Ganguly,Mohammad Sami,R Dravid,0,0,0
+,1,India,113,3,SC Ganguly,Mohammad Sami,R Dravid,0,1,1
+,1,India,113,4,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,113,5,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,114,0,SC Ganguly,Fazl-e-Akbar,R Dravid,4,0,4
+,1,India,114,1,SC Ganguly,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,114,2,SC Ganguly,Fazl-e-Akbar,R Dravid,1,0,1
+,1,India,114,3,R Dravid,Fazl-e-Akbar,SC Ganguly,4,0,4
+,1,India,114,4,R Dravid,Fazl-e-Akbar,SC Ganguly,0,0,0
+,1,India,114,5,R Dravid,Fazl-e-Akbar,SC Ganguly,0,0,0
+,1,India,115,0,SC Ganguly,Mohammad Sami,R Dravid,0,0,0
+,1,India,115,1,SC Ganguly,Mohammad Sami,R Dravid,0,0,0
+,1,India,115,2,SC Ganguly,Mohammad Sami,R Dravid,0,0,0
+,1,India,115,3,SC Ganguly,Mohammad Sami,R Dravid,0,0,0
+,1,India,115,4,SC Ganguly,Mohammad Sami,R Dravid,1,0,1
+,1,India,115,5,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,116,0,SC Ganguly,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,116,1,SC Ganguly,Fazl-e-Akbar,R Dravid,4,0,4
+,1,India,116,2,SC Ganguly,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,116,3,SC Ganguly,Fazl-e-Akbar,R Dravid,1,0,1
+,1,India,116,4,R Dravid,Fazl-e-Akbar,SC Ganguly,0,0,0
+,1,India,116,5,R Dravid,Fazl-e-Akbar,SC Ganguly,0,0,0
+,1,India,117,0,SC Ganguly,Mohammad Sami,R Dravid,0,0,0
+,1,India,117,1,SC Ganguly,Mohammad Sami,R Dravid,0,0,0
+,1,India,117,2,SC Ganguly,Mohammad Sami,R Dravid,0,0,0
+,1,India,117,3,SC Ganguly,Mohammad Sami,R Dravid,0,0,0
+,1,India,117,4,SC Ganguly,Mohammad Sami,R Dravid,4,0,4
+,1,India,117,5,SC Ganguly,Mohammad Sami,R Dravid,0,0,0
+,1,India,118,0,R Dravid,Fazl-e-Akbar,SC Ganguly,1,0,1
+,1,India,118,1,SC Ganguly,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,118,2,SC Ganguly,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,118,3,SC Ganguly,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,118,4,SC Ganguly,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,118,5,SC Ganguly,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,119,0,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,119,1,R Dravid,Mohammad Sami,SC Ganguly,4,0,4
+,1,India,119,2,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,119,3,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,119,4,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,119,5,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,120,0,SC Ganguly,Danish Kaneria,R Dravid,0,0,0
+,1,India,120,1,SC Ganguly,Danish Kaneria,R Dravid,0,0,0
+,1,India,120,2,SC Ganguly,Danish Kaneria,R Dravid,0,0,0
+,1,India,120,3,SC Ganguly,Danish Kaneria,R Dravid,0,0,0
+,1,India,120,4,SC Ganguly,Danish Kaneria,R Dravid,0,0,0
+,1,India,120,5,SC Ganguly,Danish Kaneria,R Dravid,1,0,1
+,1,India,121,0,SC Ganguly,Mohammad Sami,R Dravid,1,0,1
+,1,India,121,1,R Dravid,Mohammad Sami,SC Ganguly,1,0,1
+,1,India,121,2,SC Ganguly,Mohammad Sami,R Dravid,0,0,0
+,1,India,121,3,SC Ganguly,Mohammad Sami,R Dravid,4,0,4
+,1,India,121,4,SC Ganguly,Mohammad Sami,R Dravid,0,0,0
+,1,India,121,5,SC Ganguly,Mohammad Sami,R Dravid,0,0,0
+,1,India,122,0,R Dravid,Danish Kaneria,SC Ganguly,2,0,2
+,1,India,122,1,R Dravid,Danish Kaneria,SC Ganguly,1,0,1
+,1,India,122,2,SC Ganguly,Danish Kaneria,R Dravid,0,0,0
+,1,India,122,3,SC Ganguly,Danish Kaneria,R Dravid,1,0,1
+,1,India,122,4,R Dravid,Danish Kaneria,SC Ganguly,1,0,1
+,1,India,122,5,SC Ganguly,Danish Kaneria,R Dravid,0,0,0
+,1,India,123,0,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,123,1,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,123,2,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,123,3,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,123,4,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,123,5,R Dravid,Mohammad Sami,SC Ganguly,0,0,0
+,1,India,124,0,SC Ganguly,Danish Kaneria,R Dravid,0,0,0
+,1,India,124,1,R Dravid,Danish Kaneria,Yuvraj Singh,1,0,1
+,1,India,124,2,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,124,3,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,124,4,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,124,5,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,125,0,R Dravid,Mohammad Sami,Yuvraj Singh,0,0,0
+,1,India,125,1,R Dravid,Mohammad Sami,Yuvraj Singh,0,0,0
+,1,India,125,2,R Dravid,Mohammad Sami,Yuvraj Singh,1,0,1
+,1,India,125,3,Yuvraj Singh,Mohammad Sami,R Dravid,1,0,1
+,1,India,125,4,R Dravid,Mohammad Sami,Yuvraj Singh,0,0,0
+,1,India,125,5,R Dravid,Mohammad Sami,Yuvraj Singh,0,0,0
+,1,India,126,0,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,126,1,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,126,2,Yuvraj Singh,Danish Kaneria,R Dravid,1,0,1
+,1,India,126,3,R Dravid,Danish Kaneria,Yuvraj Singh,0,0,0
+,1,India,126,4,R Dravid,Danish Kaneria,Yuvraj Singh,1,0,1
+,1,India,126,5,Yuvraj Singh,Danish Kaneria,R Dravid,1,0,1
+,1,India,127,0,Yuvraj Singh,Mohammad Sami,R Dravid,0,0,0
+,1,India,127,1,Yuvraj Singh,Mohammad Sami,R Dravid,0,0,0
+,1,India,127,2,Yuvraj Singh,Mohammad Sami,R Dravid,0,0,0
+,1,India,127,3,Yuvraj Singh,Mohammad Sami,R Dravid,0,0,0
+,1,India,127,4,Yuvraj Singh,Mohammad Sami,R Dravid,0,0,0
+,1,India,127,5,Yuvraj Singh,Mohammad Sami,R Dravid,0,0,0
+,1,India,128,0,R Dravid,Danish Kaneria,Yuvraj Singh,0,0,0
+,1,India,128,1,R Dravid,Danish Kaneria,Yuvraj Singh,1,0,1
+,1,India,128,2,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,128,3,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,128,4,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,128,5,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,129,0,R Dravid,Mohammad Sami,Yuvraj Singh,0,0,0
+,1,India,129,1,R Dravid,Mohammad Sami,Yuvraj Singh,1,0,1
+,1,India,129,2,Yuvraj Singh,Mohammad Sami,R Dravid,0,0,0
+,1,India,129,3,Yuvraj Singh,Mohammad Sami,R Dravid,0,0,0
+,1,India,129,4,Yuvraj Singh,Mohammad Sami,R Dravid,0,0,0
+,1,India,129,5,Yuvraj Singh,Mohammad Sami,R Dravid,1,0,1
+,1,India,130,0,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,130,1,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,130,2,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,130,3,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,130,4,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,130,5,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,131,0,R Dravid,Imran Farhat,Yuvraj Singh,0,0,0
+,1,India,131,1,R Dravid,Imran Farhat,Yuvraj Singh,0,0,0
+,1,India,131,2,R Dravid,Imran Farhat,Yuvraj Singh,1,0,1
+,1,India,131,3,Yuvraj Singh,Imran Farhat,R Dravid,0,0,0
+,1,India,131,4,Yuvraj Singh,Imran Farhat,R Dravid,2,0,2
+,1,India,131,5,Yuvraj Singh,Imran Farhat,R Dravid,0,0,0
+,1,India,132,0,R Dravid,Danish Kaneria,Yuvraj Singh,1,0,1
+,1,India,132,1,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,132,2,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,132,3,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,132,4,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,132,5,Yuvraj Singh,Danish Kaneria,R Dravid,1,0,1
+,1,India,133,0,Yuvraj Singh,Imran Farhat,R Dravid,0,2,2
+,1,India,133,1,Yuvraj Singh,Imran Farhat,R Dravid,4,0,4
+,1,India,133,2,Yuvraj Singh,Imran Farhat,R Dravid,2,0,2
+,1,India,133,3,Yuvraj Singh,Imran Farhat,R Dravid,0,0,0
+,1,India,133,4,Yuvraj Singh,Imran Farhat,R Dravid,0,0,0
+,1,India,133,5,Yuvraj Singh,Imran Farhat,R Dravid,0,0,0
+,1,India,134,0,R Dravid,Danish Kaneria,Yuvraj Singh,0,0,0
+,1,India,134,1,R Dravid,Danish Kaneria,Yuvraj Singh,4,0,4
+,1,India,134,2,R Dravid,Danish Kaneria,Yuvraj Singh,1,0,1
+,1,India,134,3,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,134,4,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,134,5,Yuvraj Singh,Danish Kaneria,R Dravid,1,0,1
+,1,India,135,0,Yuvraj Singh,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,135,1,Yuvraj Singh,Fazl-e-Akbar,R Dravid,4,0,4
+,1,India,135,2,Yuvraj Singh,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,135,3,Yuvraj Singh,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,135,4,Yuvraj Singh,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,135,5,Yuvraj Singh,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,136,0,R Dravid,Danish Kaneria,Yuvraj Singh,0,0,0
+,1,India,136,1,R Dravid,Danish Kaneria,Yuvraj Singh,0,0,0
+,1,India,136,2,R Dravid,Danish Kaneria,Yuvraj Singh,1,0,1
+,1,India,136,3,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,136,4,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,136,5,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,137,0,R Dravid,Fazl-e-Akbar,Yuvraj Singh,0,0,0
+,1,India,137,1,R Dravid,Fazl-e-Akbar,Yuvraj Singh,1,0,1
+,1,India,137,2,Yuvraj Singh,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,137,3,Yuvraj Singh,Fazl-e-Akbar,R Dravid,4,0,4
+,1,India,137,4,Yuvraj Singh,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,137,5,Yuvraj Singh,Fazl-e-Akbar,R Dravid,4,0,4
+,1,India,138,0,R Dravid,Danish Kaneria,Yuvraj Singh,1,0,1
+,1,India,138,1,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,138,2,Yuvraj Singh,Danish Kaneria,R Dravid,4,0,4
+,1,India,138,3,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,138,4,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,138,5,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,139,0,R Dravid,Fazl-e-Akbar,Yuvraj Singh,0,0,0
+,1,India,139,1,R Dravid,Fazl-e-Akbar,Yuvraj Singh,1,0,1
+,1,India,139,2,Yuvraj Singh,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,139,3,Yuvraj Singh,Fazl-e-Akbar,R Dravid,1,0,1
+,1,India,139,4,R Dravid,Fazl-e-Akbar,Yuvraj Singh,4,0,4
+,1,India,139,5,R Dravid,Fazl-e-Akbar,Yuvraj Singh,0,0,0
+,1,India,140,0,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,140,1,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,140,2,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,140,3,Yuvraj Singh,Danish Kaneria,R Dravid,4,0,4
+,1,India,140,4,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,140,5,Yuvraj Singh,Danish Kaneria,R Dravid,4,0,4
+,1,India,141,0,R Dravid,Fazl-e-Akbar,Yuvraj Singh,0,0,0
+,1,India,141,1,R Dravid,Fazl-e-Akbar,Yuvraj Singh,0,0,0
+,1,India,141,2,R Dravid,Fazl-e-Akbar,Yuvraj Singh,1,0,1
+,1,India,141,3,Yuvraj Singh,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,141,4,Yuvraj Singh,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,141,5,Yuvraj Singh,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,142,0,R Dravid,Danish Kaneria,Yuvraj Singh,4,0,4
+,1,India,142,1,R Dravid,Danish Kaneria,Yuvraj Singh,1,0,1
+,1,India,142,2,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,142,3,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,142,4,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,142,5,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,143,0,R Dravid,Fazl-e-Akbar,Yuvraj Singh,1,0,1
+,1,India,143,1,Yuvraj Singh,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,143,2,Yuvraj Singh,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,143,3,Yuvraj Singh,Fazl-e-Akbar,R Dravid,2,0,2
+,1,India,143,4,Yuvraj Singh,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,143,5,Yuvraj Singh,Fazl-e-Akbar,R Dravid,0,1,1
+,1,India,144,0,Yuvraj Singh,Danish Kaneria,R Dravid,1,0,1
+,1,India,144,1,R Dravid,Danish Kaneria,Yuvraj Singh,0,0,0
+,1,India,144,2,R Dravid,Danish Kaneria,Yuvraj Singh,0,0,0
+,1,India,144,3,R Dravid,Danish Kaneria,Yuvraj Singh,4,0,4
+,1,India,144,4,R Dravid,Danish Kaneria,Yuvraj Singh,0,0,0
+,1,India,144,5,R Dravid,Danish Kaneria,Yuvraj Singh,0,0,0
+,1,India,145,0,Yuvraj Singh,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,145,1,Yuvraj Singh,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,145,2,Yuvraj Singh,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,145,3,Yuvraj Singh,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,145,4,Yuvraj Singh,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,145,5,Yuvraj Singh,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,146,0,R Dravid,Danish Kaneria,Yuvraj Singh,0,0,0
+,1,India,146,1,R Dravid,Danish Kaneria,Yuvraj Singh,1,0,1
+,1,India,146,2,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,146,3,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,146,4,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,146,5,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,147,0,R Dravid,Yasir Hameed,Yuvraj Singh,1,0,1
+,1,India,147,1,Yuvraj Singh,Yasir Hameed,R Dravid,0,0,0
+,1,India,147,2,Yuvraj Singh,Yasir Hameed,R Dravid,1,0,1
+,1,India,147,3,R Dravid,Yasir Hameed,Yuvraj Singh,0,0,0
+,1,India,147,4,R Dravid,Yasir Hameed,Yuvraj Singh,2,0,2
+,1,India,147,5,R Dravid,Yasir Hameed,Yuvraj Singh,1,0,1
+,1,India,148,0,R Dravid,Danish Kaneria,Yuvraj Singh,0,0,0
+,1,India,148,1,R Dravid,Danish Kaneria,Yuvraj Singh,1,0,1
+,1,India,148,2,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,148,3,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,148,4,Yuvraj Singh,Danish Kaneria,R Dravid,1,0,1
+,1,India,148,5,R Dravid,Danish Kaneria,Yuvraj Singh,4,0,4
+,1,India,149,0,Yuvraj Singh,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,149,1,Yuvraj Singh,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,149,2,Yuvraj Singh,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,149,3,Yuvraj Singh,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,149,4,Yuvraj Singh,Fazl-e-Akbar,R Dravid,0,0,0
+,1,India,149,5,Yuvraj Singh,Fazl-e-Akbar,R Dravid,2,0,2
+,1,India,150,0,R Dravid,Danish Kaneria,Yuvraj Singh,0,0,0
+,1,India,150,1,R Dravid,Danish Kaneria,Yuvraj Singh,1,0,1
+,1,India,150,2,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,150,3,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,150,4,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,150,5,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,151,0,R Dravid,Fazl-e-Akbar,Yuvraj Singh,0,0,0
+,1,India,151,1,R Dravid,Fazl-e-Akbar,Yuvraj Singh,0,0,0
+,1,India,151,2,R Dravid,Fazl-e-Akbar,Yuvraj Singh,0,0,0
+,1,India,151,3,R Dravid,Fazl-e-Akbar,Yuvraj Singh,4,0,4
+,1,India,151,4,R Dravid,Fazl-e-Akbar,Yuvraj Singh,0,0,0
+,1,India,151,5,R Dravid,Fazl-e-Akbar,Yuvraj Singh,0,0,0
+,1,India,152,0,Yuvraj Singh,Danish Kaneria,R Dravid,1,0,1
+,1,India,152,1,R Dravid,Danish Kaneria,Yuvraj Singh,0,0,0
+,1,India,152,2,R Dravid,Danish Kaneria,Yuvraj Singh,0,1,1
+,1,India,152,3,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,152,4,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,152,5,Yuvraj Singh,Danish Kaneria,R Dravid,0,0,0
+,1,India,153,0,R Dravid,Mohammad Sami,Yuvraj Singh,1,0,1
+,1,India,153,1,Yuvraj Singh,Mohammad Sami,R Dravid,0,0,0
+,1,India,153,2,Yuvraj Singh,Mohammad Sami,R Dravid,0,0,0
+,1,India,153,3,Yuvraj Singh,Mohammad Sami,R Dravid,0,0,0
+,1,India,153,4,Yuvraj Singh,Mohammad Sami,R Dravid,0,0,0
+,1,India,153,5,Yuvraj Singh,Mohammad Sami,R Dravid,0,0,0
+,1,India,154,0,R Dravid,Danish Kaneria,IK Pathan,0,0,0
+,1,India,154,1,R Dravid,Danish Kaneria,IK Pathan,2,0,2
+,1,India,154,2,R Dravid,Danish Kaneria,IK Pathan,1,0,1
+,1,India,154,3,IK Pathan,Danish Kaneria,R Dravid,0,0,0
+,1,India,154,4,IK Pathan,Danish Kaneria,R Dravid,0,0,0
+,1,India,154,5,IK Pathan,Danish Kaneria,R Dravid,0,0,0
+,1,India,155,0,R Dravid,Mohammad Sami,IK Pathan,0,0,0
+,1,India,155,1,R Dravid,Mohammad Sami,IK Pathan,4,0,4
+,1,India,155,2,R Dravid,Mohammad Sami,IK Pathan,0,0,0
+,1,India,155,3,R Dravid,Mohammad Sami,IK Pathan,0,0,0
+,1,India,155,4,R Dravid,Mohammad Sami,IK Pathan,1,0,1
+,1,India,155,5,IK Pathan,Mohammad Sami,R Dravid,0,0,0
+,1,India,156,0,R Dravid,Danish Kaneria,IK Pathan,0,0,0
+,1,India,156,1,R Dravid,Danish Kaneria,IK Pathan,1,0,1
+,1,India,156,2,IK Pathan,Danish Kaneria,R Dravid,0,0,0
+,1,India,156,3,IK Pathan,Danish Kaneria,R Dravid,0,0,0
+,1,India,156,4,IK Pathan,Danish Kaneria,R Dravid,0,0,0
+,1,India,156,5,IK Pathan,Danish Kaneria,R Dravid,0,0,0
+,1,India,157,0,R Dravid,Mohammad Sami,IK Pathan,1,0,1
+,1,India,157,1,IK Pathan,Mohammad Sami,R Dravid,0,0,0
+,1,India,157,2,IK Pathan,Mohammad Sami,R Dravid,1,0,1
+,1,India,157,3,R Dravid,Mohammad Sami,IK Pathan,0,0,0
+,1,India,157,4,R Dravid,Mohammad Sami,IK Pathan,0,0,0
+,1,India,157,5,R Dravid,Mohammad Sami,IK Pathan,4,0,4
+,1,India,158,0,IK Pathan,Danish Kaneria,R Dravid,0,0,0
+,1,India,158,1,IK Pathan,Danish Kaneria,R Dravid,0,0,0
+,1,India,158,2,IK Pathan,Danish Kaneria,R Dravid,1,0,1
+,1,India,158,3,R Dravid,Danish Kaneria,IK Pathan,4,0,4
+,1,India,158,4,R Dravid,Danish Kaneria,IK Pathan,1,0,1
+,1,India,158,5,IK Pathan,Danish Kaneria,R Dravid,0,0,0
+,1,India,159,0,R Dravid,Mohammad Sami,IK Pathan,1,0,1
+,1,India,159,1,IK Pathan,Mohammad Sami,R Dravid,0,0,0
+,1,India,159,2,IK Pathan,Mohammad Sami,R Dravid,0,0,0
+,1,India,159,3,IK Pathan,Mohammad Sami,R Dravid,0,0,0
+,1,India,159,4,IK Pathan,Mohammad Sami,R Dravid,0,0,0
+,1,India,159,5,IK Pathan,Mohammad Sami,R Dravid,0,0,0
+,1,India,160,0,R Dravid,Danish Kaneria,IK Pathan,0,0,0
+,1,India,160,1,R Dravid,Danish Kaneria,IK Pathan,1,0,1
+,1,India,160,2,IK Pathan,Danish Kaneria,R Dravid,0,0,0
+,1,India,160,3,IK Pathan,Danish Kaneria,R Dravid,0,0,0
+,1,India,160,4,IK Pathan,Danish Kaneria,R Dravid,1,0,1
+,1,India,160,5,R Dravid,Danish Kaneria,IK Pathan,0,0,0
+,1,India,161,0,IK Pathan,Mohammad Sami,R Dravid,0,4,4
+,1,India,161,1,IK Pathan,Mohammad Sami,R Dravid,4,0,4
+,1,India,161,2,IK Pathan,Mohammad Sami,R Dravid,0,0,0
+,1,India,161,3,IK Pathan,Mohammad Sami,R Dravid,0,0,0
+,1,India,161,4,IK Pathan,Mohammad Sami,R Dravid,0,0,0
+,1,India,161,5,IK Pathan,Mohammad Sami,R Dravid,1,0,1
+,1,India,162,0,IK Pathan,Danish Kaneria,R Dravid,1,0,1
+,1,India,162,1,R Dravid,Danish Kaneria,IK Pathan,0,0,0
+,1,India,162,2,R Dravid,Danish Kaneria,IK Pathan,0,0,0
+,1,India,162,3,R Dravid,Danish Kaneria,IK Pathan,0,0,0
+,1,India,162,4,R Dravid,Danish Kaneria,IK Pathan,1,0,1
+,1,India,162,5,IK Pathan,Danish Kaneria,R Dravid,0,0,0
+,1,India,163,0,R Dravid,Imran Farhat,IK Pathan,1,0,1
+,1,India,163,1,IK Pathan,Imran Farhat,R Dravid,4,0,4
+,1,India,163,2,IK Pathan,Imran Farhat,R Dravid,1,0,1
+,1,India,163,3,R Dravid,Imran Farhat,IK Pathan,1,0,1
+,1,India,163,4,IK Pathan,Imran Farhat,R Dravid,1,0,1
+,1,India,163,5,R Dravid,Imran Farhat,IK Pathan,1,0,1
+,1,India,164,0,R Dravid,Danish Kaneria,IK Pathan,2,0,2
+,1,India,164,1,R Dravid,Danish Kaneria,IK Pathan,1,0,1
+,1,India,164,2,IK Pathan,Danish Kaneria,R Dravid,0,0,0
+,1,India,164,3,IK Pathan,Danish Kaneria,R Dravid,0,0,0
+,1,India,164,4,R Dravid,Danish Kaneria,A Kumble,1,0,1
+,1,India,164,5,A Kumble,Danish Kaneria,R Dravid,0,0,0
+,1,India,165,0,R Dravid,Imran Farhat,A Kumble,0,0,0
+,1,India,165,1,R Dravid,Imran Farhat,A Kumble,1,0,1
+,1,India,165,2,A Kumble,Imran Farhat,R Dravid,0,0,0
+,1,India,165,3,A Kumble,Imran Farhat,R Dravid,0,0,0
+,1,India,165,4,A Kumble,Imran Farhat,R Dravid,0,0,0
+,1,India,165,5,A Kumble,Imran Farhat,R Dravid,0,0,0
+,1,India,166,0,R Dravid,Danish Kaneria,A Kumble,0,0,0
+,1,India,166,1,R Dravid,Danish Kaneria,A Kumble,0,0,0
+,1,India,166,2,R Dravid,Danish Kaneria,A Kumble,1,0,1
+,1,India,166,3,A Kumble,Danish Kaneria,R Dravid,0,0,0
+,1,India,166,4,A Kumble,Danish Kaneria,R Dravid,1,0,1
+,1,India,166,5,R Dravid,Danish Kaneria,A Kumble,1,0,1
+,1,India,167,0,R Dravid,Imran Farhat,A Kumble,3,0,3
+,1,India,167,1,A Kumble,Imran Farhat,R Dravid,0,0,0
+,1,India,167,2,A Kumble,Imran Farhat,R Dravid,0,0,0
+,1,India,167,3,A Kumble,Imran Farhat,R Dravid,0,0,0
+,1,India,167,4,A Kumble,Imran Farhat,R Dravid,0,0,0
+,1,India,167,5,A Kumble,Imran Farhat,R Dravid,1,0,1
+,1,India,168,0,A Kumble,Danish Kaneria,R Dravid,0,0,0
+,1,India,168,1,A Kumble,Danish Kaneria,R Dravid,0,0,0
+,1,India,168,2,A Kumble,Danish Kaneria,R Dravid,0,0,0
+,1,India,168,3,A Kumble,Danish Kaneria,R Dravid,0,0,0
+,1,India,168,4,A Kumble,Danish Kaneria,R Dravid,0,0,0
+,1,India,168,5,A Kumble,Danish Kaneria,R Dravid,0,0,0
+,1,India,169,0,R Dravid,Imran Farhat,A Kumble,0,0,0
+,1,India,169,1,R Dravid,Imran Farhat,A Kumble,4,0,4
+,1,India,169,2,R Dravid,Imran Farhat,A Kumble,2,0,2
+,1,India,169,3,R Dravid,Imran Farhat,A Kumble,0,0,0
+,1,India,169,4,R Dravid,Imran Farhat,A Kumble,1,0,1
+,1,India,169,5,A Kumble,Imran Farhat,R Dravid,0,0,0
+,1,India,170,0,R Dravid,Danish Kaneria,A Kumble,0,0,0
+,1,India,170,1,R Dravid,Danish Kaneria,A Kumble,1,0,1
+,1,India,170,2,A Kumble,Danish Kaneria,R Dravid,0,0,0
+,1,India,170,3,A Kumble,Danish Kaneria,R Dravid,0,0,0
+,1,India,170,4,A Kumble,Danish Kaneria,R Dravid,0,0,0
+,1,India,170,5,A Kumble,Danish Kaneria,R Dravid,0,0,0
+,1,India,171,0,R Dravid,Imran Farhat,A Kumble,0,0,0
+,1,India,171,1,R Dravid,Imran Farhat,A Kumble,1,0,1
+,1,India,171,2,A Kumble,Imran Farhat,R Dravid,6,0,6
+,1,India,171,3,A Kumble,Imran Farhat,R Dravid,1,0,1
+,1,India,171,4,R Dravid,Imran Farhat,A Kumble,4,0,4
+,1,India,171,5,R Dravid,Imran Farhat,A Kumble,1,0,1
+,1,India,172,0,R Dravid,Danish Kaneria,A Kumble,0,5,5
+,1,India,172,1,R Dravid,Danish Kaneria,A Kumble,1,0,1
+,1,India,172,2,A Kumble,Danish Kaneria,R Dravid,0,0,0
+,1,India,172,3,A Kumble,Danish Kaneria,R Dravid,0,0,0
+,1,India,172,4,A Kumble,Danish Kaneria,R Dravid,0,0,0
+,1,India,172,5,L Balaji,Danish Kaneria,R Dravid,0,0,0
+,1,India,172,6,L Balaji,Danish Kaneria,R Dravid,4,0,4
+,1,India,173,0,R Dravid,Imran Farhat,L Balaji,0,0,0
+,1,India,173,1,R Dravid,Imran Farhat,L Balaji,0,0,0
+,1,India,173,2,R Dravid,Imran Farhat,L Balaji,6,0,6
+,1,India,173,3,R Dravid,Imran Farhat,L Balaji,1,0,1
+,1,India,173,4,L Balaji,Imran Farhat,R Dravid,1,0,1
+,1,India,173,5,R Dravid,Imran Farhat,L Balaji,1,0,1
+,1,India,174,0,R Dravid,Danish Kaneria,L Balaji,0,0,0
+,1,India,174,1,R Dravid,Danish Kaneria,L Balaji,4,0,4
+,1,India,174,2,R Dravid,Danish Kaneria,L Balaji,0,0,0
+,1,India,174,3,R Dravid,Danish Kaneria,L Balaji,2,0,2
+,1,India,174,4,R Dravid,Danish Kaneria,L Balaji,0,0,0
+,1,India,174,5,R Dravid,Danish Kaneria,L Balaji,1,0,1
+,1,India,175,0,R Dravid,Imran Farhat,L Balaji,0,0,0
+,1,India,175,1,R Dravid,Imran Farhat,L Balaji,0,0,0
+,1,India,175,2,A Nehra,Imran Farhat,L Balaji,0,0,0
+,1,India,175,3,A Nehra,Imran Farhat,L Balaji,0,0,0
+,1,India,175,4,A Nehra,Imran Farhat,L Balaji,1,0,1
+,1,India,175,5,L Balaji,Imran Farhat,A Nehra,0,0,0
+,1,India,176,0,A Nehra,Danish Kaneria,L Balaji,0,0,0
+,1,India,176,1,A Nehra,Danish Kaneria,L Balaji,0,0,0
+,1,India,176,2,A Nehra,Danish Kaneria,L Balaji,0,0,0
+,1,India,176,3,A Nehra,Danish Kaneria,L Balaji,0,0,0
+,1,India,176,4,A Nehra,Danish Kaneria,L Balaji,0,0,0
+,1,India,176,5,A Nehra,Danish Kaneria,L Balaji,0,0,0
+,1,India,177,0,L Balaji,Imran Farhat,A Nehra,6,0,6
+,1,India,177,1,L Balaji,Imran Farhat,A Nehra,0,0,0
+,2,Pakistan,0,0,Imran Farhat,IK Pathan,Taufeeq Umar,0,1,1
+,2,Pakistan,0,1,Taufeeq Umar,IK Pathan,Imran Farhat,0,0,0
+,2,Pakistan,0,2,Taufeeq Umar,IK Pathan,Imran Farhat,0,0,0
+,2,Pakistan,0,3,Taufeeq Umar,IK Pathan,Imran Farhat,4,0,4
+,2,Pakistan,0,4,Taufeeq Umar,IK Pathan,Imran Farhat,1,0,1
+,2,Pakistan,0,5,Imran Farhat,IK Pathan,Taufeeq Umar,1,0,1
+,2,Pakistan,1,0,Imran Farhat,L Balaji,Taufeeq Umar,0,0,0
+,2,Pakistan,1,1,Imran Farhat,L Balaji,Taufeeq Umar,0,4,4
+,2,Pakistan,1,2,Imran Farhat,L Balaji,Taufeeq Umar,0,0,0
+,2,Pakistan,1,3,Imran Farhat,L Balaji,Taufeeq Umar,1,0,1
+,2,Pakistan,1,4,Taufeeq Umar,L Balaji,Imran Farhat,0,0,0
+,2,Pakistan,1,5,Taufeeq Umar,L Balaji,Imran Farhat,0,0,0
+,2,Pakistan,2,0,Imran Farhat,IK Pathan,Taufeeq Umar,0,0,0
+,2,Pakistan,2,1,Imran Farhat,IK Pathan,Taufeeq Umar,0,0,0
+,2,Pakistan,2,2,Imran Farhat,IK Pathan,Taufeeq Umar,0,0,0
+,2,Pakistan,2,3,Imran Farhat,IK Pathan,Taufeeq Umar,0,0,0
+,2,Pakistan,2,4,Imran Farhat,IK Pathan,Taufeeq Umar,0,0,0
+,2,Pakistan,2,5,Imran Farhat,IK Pathan,Taufeeq Umar,0,4,4
+,2,Pakistan,3,0,Taufeeq Umar,L Balaji,Imran Farhat,0,1,1
+,2,Pakistan,3,1,Taufeeq Umar,L Balaji,Imran Farhat,0,0,0
+,2,Pakistan,3,2,Taufeeq Umar,L Balaji,Imran Farhat,0,0,0
+,2,Pakistan,3,3,Taufeeq Umar,L Balaji,Imran Farhat,0,0,0
+,2,Pakistan,3,4,Taufeeq Umar,L Balaji,Imran Farhat,1,0,1
+,2,Pakistan,3,5,Imran Farhat,L Balaji,Taufeeq Umar,0,1,1
+,2,Pakistan,3,6,Taufeeq Umar,L Balaji,Imran Farhat,0,1,1
+,2,Pakistan,3,7,Taufeeq Umar,L Balaji,Imran Farhat,0,0,0
+,2,Pakistan,4,0,Imran Farhat,IK Pathan,Taufeeq Umar,1,0,1
+,2,Pakistan,4,1,Taufeeq Umar,IK Pathan,Imran Farhat,0,0,0
+,2,Pakistan,4,2,Taufeeq Umar,IK Pathan,Imran Farhat,0,0,0
+,2,Pakistan,4,3,Taufeeq Umar,IK Pathan,Imran Farhat,0,0,0
+,2,Pakistan,4,4,Taufeeq Umar,IK Pathan,Imran Farhat,0,0,0
+,2,Pakistan,4,5,Taufeeq Umar,IK Pathan,Imran Farhat,0,1,1
+,2,Pakistan,5,0,Taufeeq Umar,L Balaji,Imran Farhat,4,0,4
+,2,Pakistan,5,1,Taufeeq Umar,L Balaji,Imran Farhat,0,0,0
+,2,Pakistan,5,2,Taufeeq Umar,L Balaji,Imran Farhat,3,0,3
+,2,Pakistan,5,3,Imran Farhat,L Balaji,Taufeeq Umar,0,1,1
+,2,Pakistan,5,4,Imran Farhat,L Balaji,Taufeeq Umar,0,0,0
+,2,Pakistan,5,5,Imran Farhat,L Balaji,Taufeeq Umar,0,0,0
+,2,Pakistan,5,6,Imran Farhat,L Balaji,Taufeeq Umar,0,0,0
+,2,Pakistan,6,0,Taufeeq Umar,IK Pathan,Imran Farhat,0,0,0
+,2,Pakistan,6,1,Taufeeq Umar,IK Pathan,Imran Farhat,0,0,0
+,2,Pakistan,6,2,Taufeeq Umar,IK Pathan,Imran Farhat,0,0,0
+,2,Pakistan,6,3,Taufeeq Umar,IK Pathan,Imran Farhat,0,0,0
+,2,Pakistan,6,4,Taufeeq Umar,IK Pathan,Imran Farhat,0,0,0
+,2,Pakistan,6,5,Taufeeq Umar,IK Pathan,Imran Farhat,0,0,0
+,2,Pakistan,7,0,Imran Farhat,L Balaji,Taufeeq Umar,0,0,0
+,2,Pakistan,7,1,Imran Farhat,L Balaji,Taufeeq Umar,0,0,0
+,2,Pakistan,7,2,Imran Farhat,L Balaji,Taufeeq Umar,0,0,0
+,2,Pakistan,7,3,Imran Farhat,L Balaji,Taufeeq Umar,0,0,0
+,2,Pakistan,7,4,Imran Farhat,L Balaji,Taufeeq Umar,0,0,0
+,2,Pakistan,7,5,Imran Farhat,L Balaji,Taufeeq Umar,0,0,0
+,2,Pakistan,8,0,Taufeeq Umar,IK Pathan,Imran Farhat,0,0,0
+,2,Pakistan,8,1,Taufeeq Umar,IK Pathan,Imran Farhat,0,0,0
+,2,Pakistan,8,2,Taufeeq Umar,IK Pathan,Imran Farhat,0,0,0
+,2,Pakistan,8,3,Taufeeq Umar,IK Pathan,Imran Farhat,0,0,0
+,2,Pakistan,8,4,Taufeeq Umar,IK Pathan,Imran Farhat,0,0,0
+,2,Pakistan,8,5,Taufeeq Umar,IK Pathan,Imran Farhat,0,0,0
+,2,Pakistan,9,0,Imran Farhat,L Balaji,Taufeeq Umar,0,0,0
+,2,Pakistan,9,1,Imran Farhat,L Balaji,Taufeeq Umar,0,0,0
+,2,Pakistan,9,2,Yasir Hameed,L Balaji,Taufeeq Umar,0,0,0
+,2,Pakistan,9,3,Yasir Hameed,L Balaji,Taufeeq Umar,0,0,0
+,2,Pakistan,9,4,Yasir Hameed,L Balaji,Taufeeq Umar,0,0,0
+,2,Pakistan,9,5,Yasir Hameed,L Balaji,Taufeeq Umar,4,0,4
+,2,Pakistan,10,0,Taufeeq Umar,IK Pathan,Yasir Hameed,0,0,0
+,2,Pakistan,10,1,Kamran Akmal,IK Pathan,Yasir Hameed,0,0,0
+,2,Pakistan,10,2,Kamran Akmal,IK Pathan,Yasir Hameed,0,0,0
+,2,Pakistan,10,3,Kamran Akmal,IK Pathan,Yasir Hameed,0,0,0
+,2,Pakistan,10,4,Kamran Akmal,IK Pathan,Yasir Hameed,0,0,0
+,2,Pakistan,10,5,Kamran Akmal,IK Pathan,Yasir Hameed,0,0,0
+,2,Pakistan,11,0,Yasir Hameed,L Balaji,Kamran Akmal,4,0,4
+,2,Pakistan,11,1,Yasir Hameed,L Balaji,Kamran Akmal,0,0,0
+,2,Pakistan,11,2,Yasir Hameed,L Balaji,Kamran Akmal,0,0,0
+,2,Pakistan,11,3,Yasir Hameed,L Balaji,Kamran Akmal,0,0,0
+,2,Pakistan,11,4,Yasir Hameed,L Balaji,Kamran Akmal,0,0,0
+,2,Pakistan,11,5,Yasir Hameed,L Balaji,Kamran Akmal,0,0,0
+,2,Pakistan,12,0,Kamran Akmal,IK Pathan,Yasir Hameed,0,0,0
+,2,Pakistan,12,1,Kamran Akmal,IK Pathan,Yasir Hameed,0,0,0
+,2,Pakistan,12,2,Kamran Akmal,IK Pathan,Yasir Hameed,0,0,0
+,2,Pakistan,12,3,Kamran Akmal,IK Pathan,Yasir Hameed,0,0,0
+,2,Pakistan,12,4,Kamran Akmal,IK Pathan,Yasir Hameed,0,0,0
+,2,Pakistan,12,5,Kamran Akmal,IK Pathan,Yasir Hameed,0,1,1
+,2,Pakistan,13,0,Kamran Akmal,L Balaji,Yasir Hameed,2,0,2
+,2,Pakistan,13,1,Kamran Akmal,L Balaji,Yasir Hameed,4,0,4
+,2,Pakistan,13,2,Kamran Akmal,L Balaji,Yasir Hameed,0,0,0
+,2,Pakistan,13,3,Kamran Akmal,L Balaji,Yasir Hameed,0,0,0
+,2,Pakistan,13,4,Kamran Akmal,L Balaji,Yasir Hameed,0,0,0
+,2,Pakistan,13,5,Kamran Akmal,L Balaji,Yasir Hameed,4,0,4
+,2,Pakistan,14,0,Yasir Hameed,A Kumble,Kamran Akmal,0,0,0
+,2,Pakistan,14,1,Yasir Hameed,A Kumble,Kamran Akmal,0,0,0
+,2,Pakistan,14,2,Yasir Hameed,A Kumble,Kamran Akmal,0,0,0
+,2,Pakistan,14,3,Yasir Hameed,A Kumble,Kamran Akmal,0,0,0
+,2,Pakistan,14,4,Yasir Hameed,A Kumble,Kamran Akmal,0,0,0
+,2,Pakistan,14,5,Yasir Hameed,A Kumble,Kamran Akmal,0,0,0
+,2,Pakistan,15,0,Kamran Akmal,L Balaji,Yasir Hameed,0,0,0
+,2,Pakistan,15,1,Kamran Akmal,L Balaji,Yasir Hameed,0,0,0
+,2,Pakistan,15,2,Kamran Akmal,L Balaji,Yasir Hameed,4,0,4
+,2,Pakistan,15,3,Kamran Akmal,L Balaji,Yasir Hameed,4,0,4
+,2,Pakistan,15,4,Kamran Akmal,L Balaji,Yasir Hameed,4,0,4
+,2,Pakistan,15,5,Kamran Akmal,L Balaji,Yasir Hameed,0,0,0
+,2,Pakistan,16,0,Yasir Hameed,IK Pathan,Kamran Akmal,0,0,0
+,2,Pakistan,16,1,Yasir Hameed,IK Pathan,Kamran Akmal,0,1,1
+,2,Pakistan,16,2,Yasir Hameed,IK Pathan,Kamran Akmal,0,0,0
+,2,Pakistan,16,3,Yasir Hameed,IK Pathan,Kamran Akmal,0,1,1
+,2,Pakistan,16,4,Kamran Akmal,IK Pathan,Yasir Hameed,0,0,0
+,2,Pakistan,16,5,Kamran Akmal,IK Pathan,Yasir Hameed,0,0,0
+,2,Pakistan,16,6,Kamran Akmal,IK Pathan,Yasir Hameed,1,0,1
+,2,Pakistan,17,0,Kamran Akmal,L Balaji,Yasir Hameed,0,0,0
+,2,Pakistan,17,1,Kamran Akmal,L Balaji,Yasir Hameed,0,0,0
+,2,Pakistan,17,2,Kamran Akmal,L Balaji,Yasir Hameed,0,0,0
+,2,Pakistan,17,3,Inzamam-ul-Haq,L Balaji,Yasir Hameed,0,0,0
+,2,Pakistan,17,4,Inzamam-ul-Haq,L Balaji,Yasir Hameed,0,0,0
+,2,Pakistan,17,5,Inzamam-ul-Haq,L Balaji,Yasir Hameed,0,0,0
+,2,Pakistan,18,0,Yasir Hameed,IK Pathan,Inzamam-ul-Haq,0,1,1
+,2,Pakistan,18,1,Inzamam-ul-Haq,IK Pathan,Yasir Hameed,0,0,0
+,2,Pakistan,18,2,Inzamam-ul-Haq,IK Pathan,Yasir Hameed,4,0,4
+,2,Pakistan,18,3,Inzamam-ul-Haq,IK Pathan,Yasir Hameed,0,0,0
+,2,Pakistan,18,4,Inzamam-ul-Haq,IK Pathan,Yasir Hameed,0,0,0
+,2,Pakistan,18,5,Inzamam-ul-Haq,IK Pathan,Yasir Hameed,1,0,1
+,2,Pakistan,19,0,Inzamam-ul-Haq,L Balaji,Yasir Hameed,3,0,3
+,2,Pakistan,19,1,Yasir Hameed,L Balaji,Inzamam-ul-Haq,0,0,0
+,2,Pakistan,19,2,Yasir Hameed,L Balaji,Inzamam-ul-Haq,0,0,0
+,2,Pakistan,19,3,Yasir Hameed,L Balaji,Inzamam-ul-Haq,0,0,0
+,2,Pakistan,19,4,Yasir Hameed,L Balaji,Inzamam-ul-Haq,0,0,0
+,2,Pakistan,19,5,Yasir Hameed,L Balaji,Inzamam-ul-Haq,4,0,4
+,2,Pakistan,20,0,Inzamam-ul-Haq,IK Pathan,Yasir Hameed,0,0,0
+,2,Pakistan,20,1,Inzamam-ul-Haq,IK Pathan,Yasir Hameed,0,0,0
+,2,Pakistan,20,2,Inzamam-ul-Haq,IK Pathan,Yasir Hameed,0,0,0
+,2,Pakistan,20,3,Inzamam-ul-Haq,IK Pathan,Yasir Hameed,0,0,0
+,2,Pakistan,20,4,Inzamam-ul-Haq,IK Pathan,Yasir Hameed,0,0,0
+,2,Pakistan,20,5,Inzamam-ul-Haq,IK Pathan,Yasir Hameed,0,0,0
+,2,Pakistan,21,0,Yasir Hameed,L Balaji,Inzamam-ul-Haq,0,0,0
+,2,Pakistan,21,1,Yasir Hameed,L Balaji,Inzamam-ul-Haq,0,0,0
+,2,Pakistan,21,2,Yasir Hameed,L Balaji,Inzamam-ul-Haq,0,0,0
+,2,Pakistan,21,3,Yasir Hameed,L Balaji,Inzamam-ul-Haq,1,0,1
+,2,Pakistan,21,4,Inzamam-ul-Haq,L Balaji,Yasir Hameed,0,0,0
+,2,Pakistan,21,5,Inzamam-ul-Haq,L Balaji,Yasir Hameed,0,0,0
+,2,Pakistan,22,0,Yasir Hameed,IK Pathan,Inzamam-ul-Haq,0,0,0
+,2,Pakistan,22,1,Yasir Hameed,IK Pathan,Inzamam-ul-Haq,2,0,2
+,2,Pakistan,22,2,Yasir Hameed,IK Pathan,Inzamam-ul-Haq,0,0,0
+,2,Pakistan,22,3,Yasir Hameed,IK Pathan,Inzamam-ul-Haq,0,1,1
+,2,Pakistan,22,4,Inzamam-ul-Haq,IK Pathan,Yasir Hameed,0,2,2
+,2,Pakistan,22,5,Yasir Hameed,IK Pathan,Inzamam-ul-Haq,0,2,2
+,2,Pakistan,22,6,Inzamam-ul-Haq,IK Pathan,Yasir Hameed,0,0,0
+,2,Pakistan,22,7,Inzamam-ul-Haq,IK Pathan,Yasir Hameed,0,0,0
+,2,Pakistan,23,0,Yasir Hameed,L Balaji,Inzamam-ul-Haq,4,0,4
+,2,Pakistan,23,1,Yasir Hameed,L Balaji,Inzamam-ul-Haq,1,0,1
+,2,Pakistan,23,2,Inzamam-ul-Haq,L Balaji,Yasir Hameed,0,0,0
+,2,Pakistan,23,3,Inzamam-ul-Haq,L Balaji,Yasir Hameed,0,0,0
+,2,Pakistan,23,4,Inzamam-ul-Haq,L Balaji,Yasir Hameed,0,0,0
+,2,Pakistan,23,5,Inzamam-ul-Haq,L Balaji,Yasir Hameed,0,0,0
+,2,Pakistan,24,0,Yasir Hameed,A Nehra,Inzamam-ul-Haq,0,0,0
+,2,Pakistan,24,1,Yasir Hameed,A Nehra,Inzamam-ul-Haq,0,0,0
+,2,Pakistan,24,2,Mohammad Yousuf,A Nehra,Inzamam-ul-Haq,0,0,0
+,2,Pakistan,24,3,Mohammad Yousuf,A Nehra,Inzamam-ul-Haq,2,0,2
+,2,Pakistan,24,4,Mohammad Yousuf,A Nehra,Inzamam-ul-Haq,0,0,0
+,2,Pakistan,24,5,Mohammad Yousuf,A Nehra,Inzamam-ul-Haq,0,0,0
+,2,Pakistan,25,0,Inzamam-ul-Haq,L Balaji,Mohammad Yousuf,0,0,0
+,2,Pakistan,25,1,Inzamam-ul-Haq,L Balaji,Mohammad Yousuf,0,0,0
+,2,Pakistan,25,2,Inzamam-ul-Haq,L Balaji,Mohammad Yousuf,1,0,1
+,2,Pakistan,25,3,Mohammad Yousuf,L Balaji,Inzamam-ul-Haq,1,0,1
+,2,Pakistan,25,4,Inzamam-ul-Haq,L Balaji,Mohammad Yousuf,0,0,0
+,2,Pakistan,25,5,Asim Kamal,L Balaji,Mohammad Yousuf,0,0,0
+,2,Pakistan,26,0,Mohammad Yousuf,IK Pathan,Asim Kamal,0,0,0
+,2,Pakistan,26,1,Mohammad Yousuf,IK Pathan,Asim Kamal,3,0,3
+,2,Pakistan,26,2,Asim Kamal,IK Pathan,Mohammad Yousuf,0,0,0
+,2,Pakistan,26,3,Asim Kamal,IK Pathan,Mohammad Yousuf,0,0,0
+,2,Pakistan,26,4,Asim Kamal,IK Pathan,Mohammad Yousuf,0,0,0
+,2,Pakistan,26,5,Asim Kamal,IK Pathan,Mohammad Yousuf,0,1,1
+,2,Pakistan,26,6,Asim Kamal,IK Pathan,Mohammad Yousuf,0,0,0
+,2,Pakistan,27,0,Mohammad Yousuf,L Balaji,Asim Kamal,4,0,4
+,2,Pakistan,27,1,Mohammad Yousuf,L Balaji,Asim Kamal,1,0,1
+,2,Pakistan,27,2,Asim Kamal,L Balaji,Mohammad Yousuf,0,0,0
+,2,Pakistan,27,3,Asim Kamal,L Balaji,Mohammad Yousuf,4,0,4
+,2,Pakistan,27,4,Asim Kamal,L Balaji,Mohammad Yousuf,0,0,0
+,2,Pakistan,27,5,Asim Kamal,L Balaji,Mohammad Yousuf,4,0,4
+,2,Pakistan,28,0,Mohammad Yousuf,IK Pathan,Asim Kamal,0,0,0
+,2,Pakistan,28,1,Mohammad Yousuf,IK Pathan,Asim Kamal,0,0,0
+,2,Pakistan,28,2,Mohammad Yousuf,IK Pathan,Asim Kamal,1,0,1
+,2,Pakistan,28,3,Asim Kamal,IK Pathan,Mohammad Yousuf,0,0,0
+,2,Pakistan,28,4,Asim Kamal,IK Pathan,Mohammad Yousuf,0,0,0
+,2,Pakistan,28,5,Asim Kamal,IK Pathan,Mohammad Yousuf,4,0,4
+,2,Pakistan,29,0,Mohammad Yousuf,L Balaji,Asim Kamal,0,0,0
+,2,Pakistan,29,1,Mohammad Yousuf,L Balaji,Asim Kamal,4,0,4
+,2,Pakistan,29,2,Mohammad Yousuf,L Balaji,Asim Kamal,0,0,0
+,2,Pakistan,29,3,Mohammad Yousuf,L Balaji,Asim Kamal,0,0,0
+,2,Pakistan,29,4,Mohammad Yousuf,L Balaji,Asim Kamal,0,0,0
+,2,Pakistan,29,5,Mohammad Yousuf,L Balaji,Asim Kamal,4,0,4
+,2,Pakistan,30,0,Asim Kamal,IK Pathan,Mohammad Yousuf,0,0,0
+,2,Pakistan,30,1,Asim Kamal,IK Pathan,Mohammad Yousuf,0,1,1
+,2,Pakistan,30,2,Asim Kamal,IK Pathan,Mohammad Yousuf,0,0,0
+,2,Pakistan,30,3,Asim Kamal,IK Pathan,Mohammad Yousuf,0,0,0
+,2,Pakistan,30,4,Asim Kamal,IK Pathan,Mohammad Yousuf,0,0,0
+,2,Pakistan,30,5,Asim Kamal,IK Pathan,Mohammad Yousuf,0,0,0
+,2,Pakistan,30,6,Asim Kamal,IK Pathan,Mohammad Yousuf,0,0,0
+,2,Pakistan,31,0,Mohammad Yousuf,A Nehra,Asim Kamal,4,0,4
+,2,Pakistan,31,1,Mohammad Yousuf,A Nehra,Asim Kamal,0,0,0
+,2,Pakistan,31,2,Mohammad Yousuf,A Nehra,Asim Kamal,0,0,0
+,2,Pakistan,31,3,Mohammad Yousuf,A Nehra,Asim Kamal,0,1,1
+,2,Pakistan,31,4,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,2,Pakistan,31,5,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,2,Pakistan,32,0,Mohammad Yousuf,SC Ganguly,Asim Kamal,4,0,4
+,2,Pakistan,32,1,Mohammad Yousuf,SC Ganguly,Asim Kamal,0,0,0
+,2,Pakistan,32,2,Mohammad Yousuf,SC Ganguly,Asim Kamal,0,0,0
+,2,Pakistan,32,3,Mohammad Yousuf,SC Ganguly,Asim Kamal,0,0,0
+,2,Pakistan,32,4,Mohammad Yousuf,SC Ganguly,Asim Kamal,0,0,0
+,2,Pakistan,32,5,Mohammad Yousuf,SC Ganguly,Asim Kamal,0,0,0
+,2,Pakistan,33,0,Asim Kamal,A Nehra,Mohammad Yousuf,4,0,4
+,2,Pakistan,33,1,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,2,Pakistan,33,2,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,2,Pakistan,33,3,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,2,Pakistan,33,4,Asim Kamal,A Nehra,Mohammad Yousuf,4,0,4
+,2,Pakistan,33,5,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,2,Pakistan,34,0,Mohammad Yousuf,SC Ganguly,Asim Kamal,0,0,0
+,2,Pakistan,34,1,Mohammad Yousuf,SC Ganguly,Asim Kamal,0,0,0
+,2,Pakistan,34,2,Mohammad Yousuf,SC Ganguly,Asim Kamal,4,0,4
+,2,Pakistan,34,3,Mohammad Yousuf,SC Ganguly,Asim Kamal,0,0,0
+,2,Pakistan,34,4,Mohammad Yousuf,SC Ganguly,Asim Kamal,0,1,1
+,2,Pakistan,34,5,Mohammad Yousuf,SC Ganguly,Asim Kamal,0,0,0
+,2,Pakistan,34,6,Mohammad Yousuf,SC Ganguly,Asim Kamal,0,0,0
+,2,Pakistan,35,0,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,2,Pakistan,35,1,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,2,Pakistan,35,2,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,2,Pakistan,35,3,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,2,Pakistan,35,4,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,2,Pakistan,35,5,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,2,Pakistan,36,0,Mohammad Yousuf,SC Ganguly,Asim Kamal,0,0,0
+,2,Pakistan,36,1,Mohammad Yousuf,SC Ganguly,Asim Kamal,0,0,0
+,2,Pakistan,36,2,Mohammad Yousuf,SC Ganguly,Asim Kamal,0,1,1
+,2,Pakistan,36,3,Mohammad Yousuf,SC Ganguly,Asim Kamal,0,0,0
+,2,Pakistan,36,4,Mohammad Yousuf,SC Ganguly,Asim Kamal,0,0,0
+,2,Pakistan,36,5,Mohammad Yousuf,SC Ganguly,Asim Kamal,0,0,0
+,2,Pakistan,36,6,Mohammad Yousuf,SC Ganguly,Asim Kamal,0,0,0
+,2,Pakistan,37,0,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,2,Pakistan,37,1,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,2,Pakistan,37,2,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,2,Pakistan,37,3,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,2,Pakistan,37,4,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,2,Pakistan,37,5,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,2,Pakistan,38,0,Mohammad Yousuf,SC Ganguly,Asim Kamal,0,0,0
+,2,Pakistan,38,1,Mohammad Yousuf,SC Ganguly,Asim Kamal,0,0,0
+,2,Pakistan,38,2,Mohammad Yousuf,SC Ganguly,Asim Kamal,0,0,0
+,2,Pakistan,38,3,Mohammad Yousuf,SC Ganguly,Asim Kamal,4,0,4
+,2,Pakistan,38,4,Mohammad Yousuf,SC Ganguly,Asim Kamal,0,0,0
+,2,Pakistan,38,5,Mohammad Yousuf,SC Ganguly,Asim Kamal,4,0,4
+,2,Pakistan,39,0,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,2,Pakistan,39,1,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,2,Pakistan,39,2,Asim Kamal,A Nehra,Mohammad Yousuf,2,0,2
+,2,Pakistan,39,3,Asim Kamal,A Nehra,Mohammad Yousuf,4,0,4
+,2,Pakistan,39,4,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,2,Pakistan,39,5,Asim Kamal,A Nehra,Mohammad Yousuf,0,0,0
+,2,Pakistan,40,0,Mohammad Yousuf,A Kumble,Asim Kamal,2,0,2
+,2,Pakistan,40,1,Mohammad Yousuf,A Kumble,Asim Kamal,4,0,4
+,2,Pakistan,40,2,Mohammad Yousuf,A Kumble,Asim Kamal,2,0,2
+,2,Pakistan,40,3,Mohammad Yousuf,A Kumble,Asim Kamal,0,0,0
+,2,Pakistan,40,4,Mohammad Yousuf,A Kumble,Asim Kamal,0,0,0
+,2,Pakistan,40,5,Mohammad Yousuf,A Kumble,Asim Kamal,0,0,0
+,2,Pakistan,41,0,Asim Kamal,L Balaji,Mohammad Yousuf,4,0,4
+,2,Pakistan,41,1,Asim Kamal,L Balaji,Mohammad Yousuf,0,0,0
+,2,Pakistan,41,2,Asim Kamal,L Balaji,Mohammad Yousuf,0,0,0
+,2,Pakistan,41,3,Asim Kamal,L Balaji,Mohammad Yousuf,0,0,0
+,2,Pakistan,41,4,Asim Kamal,L Balaji,Mohammad Yousuf,0,0,0
+,2,Pakistan,41,5,Asim Kamal,L Balaji,Mohammad Yousuf,0,0,0
+,2,Pakistan,42,0,Mohammad Yousuf,A Kumble,Asim Kamal,0,0,0
+,2,Pakistan,42,1,Mohammad Yousuf,A Kumble,Asim Kamal,0,0,0
+,2,Pakistan,42,2,Mohammad Yousuf,A Kumble,Asim Kamal,0,0,0
+,2,Pakistan,42,3,Mohammad Yousuf,A Kumble,Asim Kamal,0,0,0
+,2,Pakistan,42,4,Mohammad Yousuf,A Kumble,Asim Kamal,0,1,1
+,2,Pakistan,42,5,Mohammad Yousuf,A Kumble,Asim Kamal,0,0,0
+,2,Pakistan,42,6,Mohammad Yousuf,A Kumble,Asim Kamal,0,0,0
+,2,Pakistan,43,0,Asim Kamal,L Balaji,Mohammad Sami,0,0,0
+,2,Pakistan,43,1,Asim Kamal,L Balaji,Mohammad Sami,0,0,0
+,2,Pakistan,43,2,Asim Kamal,L Balaji,Mohammad Sami,0,0,0
+,2,Pakistan,43,3,Asim Kamal,L Balaji,Mohammad Sami,0,0,0
+,2,Pakistan,43,4,Asim Kamal,L Balaji,Mohammad Sami,0,0,0
+,2,Pakistan,43,5,Asim Kamal,L Balaji,Mohammad Sami,4,0,4
+,2,Pakistan,44,0,Mohammad Sami,A Kumble,Asim Kamal,0,0,0
+,2,Pakistan,44,1,Shoaib Akhtar,A Kumble,Asim Kamal,4,0,4
+,2,Pakistan,44,2,Shoaib Akhtar,A Kumble,Asim Kamal,4,0,4
+,2,Pakistan,44,3,Shoaib Akhtar,A Kumble,Asim Kamal,0,0,0
+,2,Pakistan,44,4,Shoaib Akhtar,A Kumble,Asim Kamal,4,0,4
+,2,Pakistan,44,5,Shoaib Akhtar,A Kumble,Asim Kamal,6,0,6
+,2,Pakistan,45,0,Asim Kamal,L Balaji,Shoaib Akhtar,0,0,0
+,2,Pakistan,45,1,Asim Kamal,L Balaji,Shoaib Akhtar,0,0,0
+,2,Pakistan,45,2,Asim Kamal,L Balaji,Shoaib Akhtar,4,0,4
+,2,Pakistan,45,3,Asim Kamal,L Balaji,Shoaib Akhtar,0,0,0
+,2,Pakistan,45,4,Asim Kamal,L Balaji,Shoaib Akhtar,2,0,2
+,2,Pakistan,45,5,Asim Kamal,L Balaji,Shoaib Akhtar,4,0,4
+,2,Pakistan,46,0,Shoaib Akhtar,A Kumble,Asim Kamal,0,0,0
+,2,Pakistan,46,1,Shoaib Akhtar,A Kumble,Asim Kamal,0,0,0
+,2,Pakistan,46,2,Shoaib Akhtar,A Kumble,Asim Kamal,4,0,4
+,2,Pakistan,46,3,Shoaib Akhtar,A Kumble,Asim Kamal,0,0,0
+,2,Pakistan,46,4,Shoaib Akhtar,A Kumble,Asim Kamal,6,0,6
+,2,Pakistan,46,5,Shoaib Akhtar,A Kumble,Asim Kamal,0,0,0
+,2,Pakistan,47,0,Asim Kamal,L Balaji,Shoaib Akhtar,0,0,0
+,2,Pakistan,47,1,Asim Kamal,L Balaji,Shoaib Akhtar,0,0,0
+,2,Pakistan,47,2,Asim Kamal,L Balaji,Shoaib Akhtar,0,0,0
+,2,Pakistan,47,3,Asim Kamal,L Balaji,Shoaib Akhtar,0,0,0
+,2,Pakistan,47,4,Asim Kamal,L Balaji,Shoaib Akhtar,0,0,0
+,2,Pakistan,47,5,Asim Kamal,L Balaji,Shoaib Akhtar,4,0,4
+,2,Pakistan,48,0,Shoaib Akhtar,A Kumble,Asim Kamal,0,0,0
+,2,Pakistan,48,1,Shoaib Akhtar,A Kumble,Asim Kamal,0,0,0
+,2,Pakistan,48,2,Shoaib Akhtar,A Kumble,Asim Kamal,0,0,0
+,2,Pakistan,48,3,Asim Kamal,A Kumble,Fazl-e-Akbar,0,0,0
+,2,Pakistan,48,4,Asim Kamal,A Kumble,Fazl-e-Akbar,0,0,0
+,2,Pakistan,48,5,Asim Kamal,A Kumble,Fazl-e-Akbar,0,0,0
+,2,Pakistan,49,0,Fazl-e-Akbar,L Balaji,Asim Kamal,0,0,0
+,2,Pakistan,49,1,Fazl-e-Akbar,L Balaji,Asim Kamal,0,0,0
+,2,Pakistan,49,2,Fazl-e-Akbar,L Balaji,Asim Kamal,0,0,0
+,2,Pakistan,49,3,Fazl-e-Akbar,L Balaji,Asim Kamal,4,0,4
+,2,Pakistan,49,4,Fazl-e-Akbar,L Balaji,Asim Kamal,4,0,4
+,2,Pakistan,49,5,Fazl-e-Akbar,L Balaji,Asim Kamal,0,0,0
+,2,Pakistan,50,0,Asim Kamal,A Kumble,Fazl-e-Akbar,0,0,0
+,2,Pakistan,50,1,Asim Kamal,A Kumble,Fazl-e-Akbar,4,0,4
+,2,Pakistan,50,2,Asim Kamal,A Kumble,Fazl-e-Akbar,0,0,0
+,2,Pakistan,50,3,Asim Kamal,A Kumble,Fazl-e-Akbar,4,0,4
+,2,Pakistan,50,4,Asim Kamal,A Kumble,Fazl-e-Akbar,1,0,1
+,2,Pakistan,50,5,Fazl-e-Akbar,A Kumble,Asim Kamal,0,0,0
+,2,Pakistan,51,0,Asim Kamal,IK Pathan,Fazl-e-Akbar,0,0,0
+,2,Pakistan,51,1,Asim Kamal,IK Pathan,Fazl-e-Akbar,0,0,0
+,2,Pakistan,51,2,Asim Kamal,IK Pathan,Fazl-e-Akbar,0,0,0
+,2,Pakistan,51,3,Asim Kamal,IK Pathan,Fazl-e-Akbar,1,0,1
+,2,Pakistan,51,4,Fazl-e-Akbar,IK Pathan,Asim Kamal,0,0,0
+,2,Pakistan,51,5,Fazl-e-Akbar,IK Pathan,Asim Kamal,4,0,4
+,2,Pakistan,52,0,Asim Kamal,A Kumble,Fazl-e-Akbar,0,0,0
+,2,Pakistan,52,1,Asim Kamal,A Kumble,Fazl-e-Akbar,0,0,0
+,2,Pakistan,52,2,Asim Kamal,A Kumble,Fazl-e-Akbar,0,0,0
+,2,Pakistan,52,3,Asim Kamal,A Kumble,Fazl-e-Akbar,0,0,0
+,2,Pakistan,52,4,Asim Kamal,A Kumble,Fazl-e-Akbar,1,0,1
+,2,Pakistan,52,5,Fazl-e-Akbar,A Kumble,Asim Kamal,0,0,0
+,2,Pakistan,53,0,Asim Kamal,SR Tendulkar,Danish Kaneria,0,0,0
+,2,Pakistan,53,1,Asim Kamal,SR Tendulkar,Danish Kaneria,0,0,0
+,2,Pakistan,53,2,Asim Kamal,SR Tendulkar,Danish Kaneria,0,0,0
+,2,Pakistan,53,3,Asim Kamal,SR Tendulkar,Danish Kaneria,1,0,1
+,2,Pakistan,53,4,Danish Kaneria,SR Tendulkar,Asim Kamal,0,0,0
+,2,Pakistan,53,5,Danish Kaneria,SR Tendulkar,Asim Kamal,0,0,0
