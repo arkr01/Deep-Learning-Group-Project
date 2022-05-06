@@ -26,9 +26,10 @@ for f_name in file_names:
 #Start preparing to create the CSV file again, but with one-hot for players
 #List fields for CSV
 fields = ['game_id','innings','innings_team','over','delivery','batter_name','batter_id',
-          'bowler_name','bowler_id','non_striker_name','non_striker_id',
-          'batter_runs','extra_runs','total_runs']
-for pos in ['batter','bowler','non_striker']:
+          'bowler_name','bowler_id',
+          'batter_runs','extra_runs','total_runs','t_runs_0','t_runs_1','t_runs_2','t_runs_3',
+         't_runs_4','t_runs_5','t_runs_6','t_runs_7','t_runs_8']
+for pos in ['batter','bowler']:
     for player in all_players:
         fields.append(pos + "_" + player)
 
@@ -72,23 +73,30 @@ for f_name in file_names:
                 row[6] = data['info']['registry']['people'][deliv['batter']]
                 row[7] = deliv['bowler']
                 row[8] = data['info']['registry']['people'][deliv['bowler']]
-                row[9] = deliv['non_striker']
-                row[10] = data['info']['registry']['people'][deliv['non_striker']]
-                row[11] = deliv['runs']['batter'],deliv['runs']['extras']
-                row[12] = deliv['runs']['total']
+                #row[9] = deliv['non_striker']
+                #row[10] = data['info']['registry']['people'][deliv['non_striker']]
+                row[9] = deliv['runs']['batter']
+                row[10] = deliv['runs']['extras']
+                row[11] = deliv['runs']['total']
+                
                 
                 #Do the one-hot bit
+                #For number of runs
+                label = "t_runs_" + str(deliv['runs']['total'])
+                row[fields.index(label)] = 1
+                
+                #For the batter/bowler
                 batter_key = 'batter_' + data['info']['registry']['people'][deliv['batter']]
                 bowler_key = 'bowler_' + data['info']['registry']['people'][deliv['bowler']]
-                non_striker_key = 'non_striker_' + data['info']['registry']['people'][deliv['non_striker']]
+                #non_striker_key = 'non_striker_' + data['info']['registry']['people'][deliv['non_striker']]
                 
                 batter_index = field_dict[batter_key]
                 bowler_index = field_dict[bowler_key]
-                non_striker_index = field_dict[non_striker_key]
+                #non_striker_index = field_dict[non_striker_key]
                 
                 row[batter_index] = 1
                 row[bowler_index] = 1
-                row[non_striker_index] = 1
+                #row[non_striker_index] = 1
                 
                 
                 #Append this row
