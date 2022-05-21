@@ -6,10 +6,10 @@ import numpy as np
 
 #%%
 
-BBB_filepath = "C:/Users/lachl/Google Drive/Uni Year 5/git_stuff/STAT3007Project/csv_files/cricsheet_data_partial.csv"
+#BBB_filepath = "C:/Users/lachl/Google Drive/Uni Year 5/git_stuff/STAT3007Project/csv_files/cricsheet_data_partial.csv"
 
 # %%
-def read_data(filepath=BBB_filepath):
+def read_data(filepath=""):
     df = pd.read_csv(filepath)
     return df
 
@@ -58,14 +58,14 @@ def ID_to_batter(df, ID):
     return df[batsman_columns]
 
 
-df = read_data()
-batters = get_batsman_one_hot(df)
-bowlers = get_bowler_one_hot(df)
-results = get_result_tens(df)
-ground = get_ground_tens(df)
+# df = read_data()
+# batters = get_batsman_one_hot(df)
+# bowlers = get_bowler_one_hot(df)
+# results = get_result_tens(df)
+# ground = get_ground_tens(df)
 
 
-print(bowlers.shape, batters.shape, results.shape)
+# print(bowlers.shape, batters.shape, results.shape)
 
 #%%
 class Embed_Model(torch.nn.Module):
@@ -84,9 +84,11 @@ class Embed_Model(torch.nn.Module):
             self.sigmoid = torch.nn.Sigmoid()
 
         def forward(self, batters, bowlers):
+
             bat_embed = self.batsman_embed(batters)
             bowl_embed = self.bowler_embed(bowlers)
             
+
             embed_space = torch.cat((bat_embed, bowl_embed), 1)
 
             return self.sigmoid(self.embed_to_res(embed_space))
@@ -100,12 +102,12 @@ class Embed_Model(torch.nn.Module):
 
 
 
-# #%%
 # model = Embed_Model(batters.shape[1], 10,  batters.shape[1], 10)
 # criterion = torch.nn.BCELoss()
 # optimizer = torch.optim.SGD(model.parameters(), lr = 0.1)
 
-# model(batters, bowlers).shape
+# print(batters.shape[1])
+# model(batters, bowlers)
 
 # #%%
 # model.train()
@@ -130,12 +132,12 @@ def get_embeddings(embedding_filename = "", raw_data_file_name= "", batter_embed
     if embedding_filename == "":
         # calculate embeddings normally
 
-        df = read_data()
+        df = read_data(raw_data_file_name)
         batters = get_batsman_one_hot(df)
         bowlers = get_bowler_one_hot(df)
         results = get_result_tens(df)
 
-        model = Embed_Model(batters.shape[1], batter_embed_size,  batters.shape[1], batter_embed_size, results.shape[1])
+        model = Embed_Model(batters.shape[1], batter_embed_size,  bowlers.shape[1], bowler_embed_size, results.shape[1])
         criterion = torch.nn.BCELoss()
         optimizer = torch.optim.SGD(model.parameters(), lr = 0.2)
 
@@ -143,9 +145,11 @@ def get_embeddings(embedding_filename = "", raw_data_file_name= "", batter_embed
         epoch = num_it
 
         for epoch in range(epoch):
+            
             optimizer.zero_grad()
             # Forward pass
             y_pred = model(batters, bowlers)
+
             # Compute Loss
             loss = criterion(y_pred.squeeze(), results)
         
@@ -159,8 +163,10 @@ def get_embeddings(embedding_filename = "", raw_data_file_name= "", batter_embed
         return model.get_batsman_embed(batters), model.get_bowler_embed(bowlers), model, results, get_ground_tens(df), df
 
     else:
+        print(1/0)
         # read file
         pass
+
 
 #bat_at_ball, bowl_at_ball, model, results, pitch= get_embeddings(raw_data_file_name=BBB_filepath)
 
