@@ -125,7 +125,7 @@ class Embed_Model(torch.nn.Module):
 
 
 #%%
-def get_embeddings(embedding_filename = "", raw_data_file_name= ""):
+def get_embeddings(embedding_filename = "", raw_data_file_name= "", batter_embed_size =10, bowler_embed_size=10, num_it = 500):
     
     if embedding_filename == "":
         # calculate embeddings normally
@@ -135,12 +135,12 @@ def get_embeddings(embedding_filename = "", raw_data_file_name= ""):
         bowlers = get_bowler_one_hot(df)
         results = get_result_tens(df)
 
-        model = Embed_Model(batters.shape[1], 10,  batters.shape[1], 10, results.shape[1])
+        model = Embed_Model(batters.shape[1], batter_embed_size,  batters.shape[1], batter_embed_size, results.shape[1])
         criterion = torch.nn.BCELoss()
         optimizer = torch.optim.SGD(model.parameters(), lr = 0.2)
 
         model.train()
-        epoch = 500
+        epoch = num_it
 
         for epoch in range(epoch):
             optimizer.zero_grad()
