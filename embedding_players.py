@@ -42,7 +42,6 @@ def get_result_tens(df):
     #blahh
     ret_val = df[["wicket_kind", "t_runs_0", "t_runs_1", "t_runs_2", "t_runs_3", "t_runs_4", "t_runs_5", "t_runs_6"]]
     extra_one_hot = [i for i in ret_val["wicket_kind"].unique() if isinstance(i, str)]
-
     for wicket_title in extra_one_hot:
         ret_val[wicket_title] = 1 * (ret_val["wicket_kind"] == wicket_title)
 
