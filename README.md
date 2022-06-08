@@ -1,8 +1,5 @@
 # STAT3007Project
-
-PLEASE ENSURE THE CRICSHEET DATA FILE IN /CSV_FILES IS EXTRACTED FROM ITS ZIP
-
-
----Data:
-Currently just working with a tiny subset of the overall cricsheet dataset. Cleaned up the JSON data and converted to CSVs. Combined these CSVs into one very large CSV, 'cricsheet_data_partial.csv'. Also produced an overview CSV containing a row for each game in the cricsheet dataset, called 'cricsheet_data_overview.csv'. 
-Currently working on converting the data to one-hot representation.
+All the models + testing code is contained in Model_and_testing.ipynb.
+There are some python pickle files in this directory which can be used to avoid having to run some of the slower parts of the Model_and_testing notebook.
+The main dataset is in csv_files/cricsheet_data.csv.
+Some other miscellaneous helper scripts and notebooks are included in this directory.
